@@ -1,0 +1,797 @@
+{
+	"file_history":
+	[
+		"/home/necrofago/PKG/base_install/git.txt",
+		"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+		"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+		"/home/necrofago/PKG/git.txt",
+		"/home/necrofago/PKG/papirus.sh",
+		"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+		"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+		"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+		"/home/necrofago/.ssh/id_ed25519.pub",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+		"/home/necrofago/.ssh/id_ed25519",
+		"/home/necrofago/.config/hypr/bak-hyprland.conf",
+		"/home/necrofago/.config/waybar/colors.css",
+		"/home/necrofago/.config/hypr/monitors.conf",
+		"/home/necrofago/.config/hypr/envs.conf",
+		"/home/necrofago/.config/waybar/config.jsonc",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+		"/home/necrofago/.config/swaync/style.css",
+		"/home/necrofago/.config/swaync/1style.css",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+		"/home/necrofago/.config/swaync/config.json",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+		"/home/necrofago/.config/hypr/autostart.conf",
+		"/home/necrofago/Transferências/btop.conf",
+		"/home/necrofago/.config/btop/btop.conf",
+		"/home/necrofago/.config/alacritty/alacritty.toml",
+		"/home/necrofago/.config/hypr/bindings.conf",
+		"/home/necrofago/.config/swaync/colors.css",
+		"/home/necrofago/.config/matugen/config.toml",
+		"/home/necrofago/.config/hypr/looknfeel.conf",
+		"/home/necrofago/.config/waybar/style.css",
+		"/home/necrofago/.config/matugen/templates/alacritty.toml",
+		"/home/necrofago/.config/swaync/rose-pine-moon.css",
+		"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+		"/home/necrofago/.config/swaync/rose-pine.css",
+		"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+		"/home/necrofago/.config/gtk-4.0/settings.ini",
+		"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+		"/home/necrofago/.config/dconf/user",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+		"/home/necrofago/.bashrc",
+		"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+		"/run/media/necrofago/NTFS/base_install/1_instalar",
+		"/run/media/necrofago/NTFS/base_install/Configuracoes",
+		"/home/necrofago/.zshrc",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+		"/etc/pacman.conf",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+		"/home/necrofago/.config/hypr/hyprland.conf",
+		"/home/necrofago/.config/hypr/apps.conf",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/envs.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/utilities.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/tiling.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/media.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/clipboard.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+		"/home/necrofago/.config/hypr/windows.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+		"/home/necrofago/.config/hypr/input.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+		"/etc/auto-cpufreq.conf",
+		"/home/necrofago/.config/waybar/update_system.sh",
+		"/home/necrofago/.config/scripts/updates.sh",
+		"/home/necrofago/.config/scripts/Reload-waybar.sh",
+		"/home/necrofago/.config/swayosd/config.toml",
+		"/home/necrofago/.config/swayosd/style.css",
+		"/home/necrofago/.config/gtk-4.0/gtk.css",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+		"/home/necrofago/.config/matugen/templates/btop.theme",
+		"/home/necrofago/.config/btop/themes/matugen.theme",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+		"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+		"/home/necrofago/.config/rofi/powermenu/style.rasi",
+		"/home/necrofago/.config/rofi/launchers/style.rasi",
+		"/home/necrofago/.config/rofi/launchers/launcher.sh",
+		"/home/necrofago/.config/rofi/colors.rasi",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
+		"/home/necrofago/.config/user-dirs.locale",
+		"/home/necrofago/.config/user-dirs.dirs",
+		"/home/necrofago/.config/pavucontrol.ini",
+		"/home/necrofago/.config/mimeapps.list",
+		"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
+		"/home/necrofago/.config/xfce4/helpers.rc",
+		"/home/necrofago/.config/xfce4/1xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml",
+		"/home/necrofago/1.zshrc",
+		"/home/necrofago/.config/scripts/power-menu.sh",
+		"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/themes/Rofi-Theme.rasi",
+		"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/config.rasi",
+		"/home/necrofago/.config/alacritty/colors.toml",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/system.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/browser.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/webcam-overlay.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/walker.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/terminals.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/steam.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/retroarch.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/pip.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/localsend.conf"
+	],
+	"folder_history":
+	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland",
+		"/run/media/vm/24D3568051BBCD58/My-Hyprland"
+	],
+	"last_version": 4200,
+	"last_window_id": 48,
+	"log_indexing": false,
+	"next_update_check": 1762362291,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1259.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"win",
+						"windowrulev2"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bacg",
+						"background"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"subl",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+				"/home/necrofago/PKG/git.txt",
+				"/home/necrofago/PKG/papirus.sh",
+				"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+				"/home/necrofago/.ssh/id_ed25519.pub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+				"/home/necrofago/.ssh/id_ed25519",
+				"/home/necrofago/.config/hypr/bak-hyprland.conf",
+				"/home/necrofago/.config/waybar/colors.css",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/hypr/envs.conf",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/swaync/style.css",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+				"/home/necrofago/.config/swaync/config.json",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/Transferências/btop.conf",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/swaync/colors.css",
+				"/home/necrofago/.config/swaync/1style.css",
+				"/home/necrofago/.config/matugen/config.toml",
+				"/home/necrofago/.config/hypr/looknfeel.conf",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/matugen/templates/alacritty.toml",
+				"/home/necrofago/.config/swaync/rose-pine-moon.css",
+				"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+				"/home/necrofago/.config/swaync/rose-pine.css",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+				"/home/necrofago/.config/gtk-4.0/settings.ini",
+				"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+				"/home/necrofago/.config/dconf/user",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+				"/home/necrofago/.bashrc",
+				"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+				"/run/media/necrofago/NTFS/base_install/1_instalar",
+				"/run/media/necrofago/NTFS/base_install/Configuracoes",
+				"/home/necrofago/.zshrc",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+				"/etc/pacman.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/apps.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/windows.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+				"/etc/auto-cpufreq.conf",
+				"/home/necrofago/.config/waybar/update_system.sh",
+				"/home/necrofago/.config/scripts/updates.sh",
+				"/home/necrofago/.config/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/swayosd/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+				"/home/necrofago/.config/matugen/templates/btop.theme",
+				"/home/necrofago/.config/btop/themes/matugen.theme",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+				"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+				"/home/necrofago/.config/rofi/launchers/style.rasi",
+				"/home/necrofago/.config/rofi/launchers/launcher.sh",
+				"/home/necrofago/.config/rofi/powermenu/style.rasi",
+				"/home/necrofago/.config/rofi/colors.rasi",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/pavucontrol.ini",
+				"/home/necrofago/.config/mimeapps.list",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
+				"/home/necrofago/.config/xfce4/helpers.rc",
+				"/home/necrofago/.config/xfce4/1xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml",
+				"/home/necrofago/.config/scripts/power-menu.sh",
+				"/home/necrofago/1.zshrc",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/themes/Rofi-Theme.rasi",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/config.rasi",
+				"/home/necrofago/.config/alacritty/colors.toml",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/system.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/browser.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/webcam-overlay.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/walker.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/terminals.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/steam.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/retroarch.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/pip.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/localsend.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/jetbrains.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/hyprshot.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/bitwarden.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/1password.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/qemu.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/windows.conf",
+				"/home/necrofago/.config/matugen/templates/gtk-colors.css",
+				"/home/necrofago/.config/gtk-3.0/gtk.css"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"yay",
+					"sway",
+					"color2",
+					"color0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1152.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"win",
+						"windowrulev2"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bacg",
+						"background"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"subl",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland"
+			],
+			"file_history":
+			[
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+				"/home/necrofago/PKG/git.txt",
+				"/home/necrofago/PKG/papirus.sh",
+				"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+				"/home/necrofago/.ssh/id_ed25519.pub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+				"/home/necrofago/.ssh/id_ed25519",
+				"/home/necrofago/.config/hypr/bak-hyprland.conf",
+				"/home/necrofago/.config/waybar/colors.css",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/hypr/envs.conf",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/swaync/style.css",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+				"/home/necrofago/.config/swaync/config.json",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/Transferências/btop.conf",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/swaync/colors.css",
+				"/home/necrofago/.config/swaync/1style.css",
+				"/home/necrofago/.config/matugen/config.toml",
+				"/home/necrofago/.config/hypr/looknfeel.conf",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/matugen/templates/alacritty.toml",
+				"/home/necrofago/.config/swaync/rose-pine-moon.css",
+				"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+				"/home/necrofago/.config/swaync/rose-pine.css",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+				"/home/necrofago/.config/gtk-4.0/settings.ini",
+				"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+				"/home/necrofago/.config/dconf/user",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+				"/home/necrofago/.bashrc",
+				"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+				"/run/media/necrofago/NTFS/base_install/1_instalar",
+				"/run/media/necrofago/NTFS/base_install/Configuracoes",
+				"/home/necrofago/.zshrc",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+				"/etc/pacman.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/apps.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/windows.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+				"/etc/auto-cpufreq.conf",
+				"/home/necrofago/.config/waybar/update_system.sh",
+				"/home/necrofago/.config/scripts/updates.sh",
+				"/home/necrofago/.config/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/swayosd/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+				"/home/necrofago/.config/matugen/templates/btop.theme",
+				"/home/necrofago/.config/btop/themes/matugen.theme",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+				"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+				"/home/necrofago/.config/rofi/launchers/style.rasi",
+				"/home/necrofago/.config/rofi/launchers/launcher.sh",
+				"/home/necrofago/.config/rofi/powermenu/style.rasi",
+				"/home/necrofago/.config/rofi/colors.rasi",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/pavucontrol.ini",
+				"/home/necrofago/.config/mimeapps.list",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
+				"/home/necrofago/.config/xfce4/helpers.rc",
+				"/home/necrofago/.config/xfce4/1xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml",
+				"/home/necrofago/.config/scripts/power-menu.sh",
+				"/home/necrofago/1.zshrc",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/themes/Rofi-Theme.rasi",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/config.rasi",
+				"/home/necrofago/.config/alacritty/colors.toml",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/system.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/browser.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/webcam-overlay.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/walker.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/terminals.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/steam.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/retroarch.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/pip.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/localsend.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/jetbrains.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/hyprshot.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/bitwarden.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/1password.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/qemu.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/windows.conf",
+				"/home/necrofago/.config/matugen/templates/gtk-colors.css",
+				"/home/necrofago/.config/gtk-3.0/gtk.css"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"yay",
+					"sway",
+					"color2",
+					"color0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/necrofago/PKG/My-Projects/My_hyprland"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1133,1237,2304,1296,0",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"status_icn": false
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 47,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

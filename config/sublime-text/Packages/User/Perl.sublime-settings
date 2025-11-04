@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"txt",
+		"Keybinds",
+		"rasi",
+		"conf",
+		"ini",
+		"zshrc",
+		"theme",
+		"grub",
+	],
+}
