@@ -3,6 +3,8 @@
 cd install_scripts
 . ./trizen.sh
 . ./chaotic-aur.sh
+sudo cp -r pacman.conf /etc
+trizen -Sy
 . ./base.sh
 . ./apps.sh
 . ./audio.sh

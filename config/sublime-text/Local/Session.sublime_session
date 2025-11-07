@@ -1,8 +1,31 @@
 {
 	"file_history":
 	[
-		"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/home/necrofago/PKG/base_install/git.txt",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/apps.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/zsh.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/trizen.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/theming.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/hyprland.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/fonts.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/file_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/display_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/chaotic-aur.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/base.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/audio.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/hyprland.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/base.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/theming.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/apps.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/zsh.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/audio.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/file_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/display_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/fonts.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/chaotic-aur.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/trizen.sh",
+		"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
 		"/home/necrofago/.config/hypr/bak-hyprland.conf",
 		"/home/necrofago/.config/hypr/bindings.conf",
 		"/home/necrofago/.config/hypr/hyprland.conf",
@@ -19,7 +42,6 @@
 		"/home/necrofago/PKG/git.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 		"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
 		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
@@ -106,29 +128,7 @@
 		"/home/necrofago/.config/rofi/powermenu/style.rasi",
 		"/home/necrofago/.config/rofi/launchers/style.rasi",
 		"/home/necrofago/.config/rofi/launchers/launcher.sh",
-		"/home/necrofago/.config/rofi/colors.rasi",
-		"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
-		"/home/necrofago/.config/user-dirs.locale",
-		"/home/necrofago/.config/user-dirs.dirs",
-		"/home/necrofago/.config/pavucontrol.ini",
-		"/home/necrofago/.config/mimeapps.list",
-		"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
-		"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
-		"/home/necrofago/.config/xfce4/helpers.rc",
-		"/home/necrofago/.config/xfce4/1xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml",
-		"/home/necrofago/1.zshrc",
-		"/home/necrofago/.config/scripts/power-menu.sh",
-		"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/themes/Rofi-Theme.rasi",
-		"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/config.rasi",
-		"/home/necrofago/.config/alacritty/colors.toml",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/system.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/browser.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/webcam-overlay.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/walker.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/terminals.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/steam.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/retroarch.conf",
-		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/pip.conf"
+		"/home/necrofago/.config/rofi/colors.rasi"
 	],
 	"folder_history":
 	[
@@ -136,13 +136,13 @@
 		"/run/media/vm/24D3568051BBCD58/My-Hyprland"
 	],
 	"last_version": 4200,
-	"last_window_id": 49,
+	"last_window_id": 52,
 	"log_indexing": false,
-	"next_update_check": 1762362291,
+	"next_update_check": 1762621491,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1296.0,
+		"new_window_height": 1259.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -216,8 +216,10 @@
 			},
 			"file_history":
 			[
-				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/base_install/virt-manager.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
 				"/home/necrofago/.config/hypr/bak-hyprland.conf",
 				"/home/necrofago/.config/hypr/hyprland.conf",
 				"/home/necrofago/.config/hypr/input.conf",
@@ -233,7 +235,6 @@
 				"/home/necrofago/PKG/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
 				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
@@ -342,8 +343,7 @@
 				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/bitwarden.conf",
 				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/1password.conf",
 				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/qemu.conf",
-				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/windows.conf",
-				"/home/necrofago/.config/matugen/templates/gtk-colors.css"
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/windows.conf"
 			],
 			"find":
 			{
@@ -440,7 +440,7 @@
 			{
 			}
 		},
-		"new_window_width": 2304.0
+		"new_window_width": 1152.0
 	},
 	"windows":
 	[
@@ -465,6 +465,17 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/necrofago/PKG/base_install/virt-manager.txt",
+					"settings":
+					{
+						"buffer_size": 1358,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -518,8 +529,9 @@
 			],
 			"file_history":
 			[
-				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
 				"/home/necrofago/.config/hypr/bak-hyprland.conf",
 				"/home/necrofago/.config/hypr/hyprland.conf",
 				"/home/necrofago/.config/hypr/input.conf",
@@ -535,7 +547,6 @@
 				"/home/necrofago/PKG/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
 				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
@@ -694,6 +705,38 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/base_install/virt-manager.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1358,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										777,
+										745
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -736,7 +779,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1133,1237,2304,1296,0",
+			"position": "0,1,0,0,0,0,0,2282,1237,2304,1296,0",
 			"project": "",
 			"replace":
 			{
