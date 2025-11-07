@@ -1,0 +1,2328 @@
+{
+	"file_history":
+	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/apps.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/zsh.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/trizen.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/theming.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/hyprland.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/fonts.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/file_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/display_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/chaotic-aur.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/base.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/audio.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/hyprland.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/base.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/theming.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/apps.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/zsh.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/audio.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/file_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/display_manager.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/fonts.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/chaotic-aur.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/trizen.sh",
+		"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+		"/home/necrofago/PKG/base_install/git.txt",
+		"/home/necrofago/.config/hypr/bak-hyprland.conf",
+		"/home/necrofago/.config/hypr/bindings.conf",
+		"/home/necrofago/.config/hypr/hyprland.conf",
+		"/home/necrofago/.config/hypr/input.conf",
+		"/home/necrofago/.config/hypr/looknfeel.conf",
+		"/home/necrofago/.config/hypr/envs.conf",
+		"/home/necrofago/.config/hypr/colors.conf",
+		"/home/necrofago/.config/hypr/autostart.conf",
+		"/home/necrofago/.config/hypr/monitors.conf",
+		"/home/necrofago/.config/waybar/colors.css",
+		"/home/necrofago/.config/waybar/config.jsonc",
+		"/home/necrofago/.config/waybar/style.css",
+		"/home/necrofago/.config/waybar/update_system.sh",
+		"/home/necrofago/PKG/git.txt",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+		"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+		"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+		"/home/necrofago/PKG/papirus.sh",
+		"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+		"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+		"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+		"/home/necrofago/.ssh/id_ed25519.pub",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+		"/home/necrofago/.ssh/id_ed25519",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+		"/home/necrofago/.config/swaync/style.css",
+		"/home/necrofago/.config/swaync/1style.css",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+		"/home/necrofago/.config/swaync/config.json",
+		"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+		"/home/necrofago/Transferências/btop.conf",
+		"/home/necrofago/.config/btop/btop.conf",
+		"/home/necrofago/.config/alacritty/alacritty.toml",
+		"/home/necrofago/.config/swaync/colors.css",
+		"/home/necrofago/.config/matugen/config.toml",
+		"/home/necrofago/.config/matugen/templates/alacritty.toml",
+		"/home/necrofago/.config/swaync/rose-pine-moon.css",
+		"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+		"/home/necrofago/.config/swaync/rose-pine.css",
+		"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+		"/home/necrofago/.config/gtk-4.0/settings.ini",
+		"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+		"/home/necrofago/.config/dconf/user",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+		"/home/necrofago/.bashrc",
+		"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+		"/run/media/necrofago/NTFS/base_install/1_instalar",
+		"/run/media/necrofago/NTFS/base_install/Configuracoes",
+		"/home/necrofago/.zshrc",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+		"/etc/pacman.conf",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+		"/home/necrofago/.config/hypr/apps.conf",
+		"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/envs.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/utilities.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/tiling.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/media.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings/clipboard.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/bindings.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+		"/home/necrofago/.config/hypr/windows.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+		"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+		"/etc/auto-cpufreq.conf",
+		"/home/necrofago/.config/scripts/updates.sh",
+		"/home/necrofago/.config/scripts/Reload-waybar.sh",
+		"/home/necrofago/.config/swayosd/config.toml",
+		"/home/necrofago/.config/swayosd/style.css",
+		"/home/necrofago/.config/gtk-4.0/gtk.css",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+		"/home/necrofago/.config/matugen/templates/btop.theme",
+		"/home/necrofago/.config/btop/themes/matugen.theme",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+		"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+		"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+		"/home/necrofago/.config/rofi/powermenu/style.rasi",
+		"/home/necrofago/.config/rofi/launchers/style.rasi",
+		"/home/necrofago/.config/rofi/launchers/launcher.sh",
+		"/home/necrofago/.config/rofi/colors.rasi"
+	],
+	"folder_history":
+	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland",
+		"/run/media/vm/24D3568051BBCD58/My-Hyprland"
+	],
+	"last_version": 4200,
+	"last_window_id": 52,
+	"log_indexing": false,
+	"next_update_check": 1762621491,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 629.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"win",
+						"windowrulev2"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bacg",
+						"background"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"subl",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/apps.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/zsh.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/trizen.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/theming.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/hyprland.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/fonts.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/file_manager.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/display_manager.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/chaotic-aur.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/base.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install_scripts/audio.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/hyprland.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/base.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/theming.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/apps.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/zsh.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/audio.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/file_manager.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/display_manager.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/fonts.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/chaotic-aur.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/trizen.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/.config/hypr/bak-hyprland.conf",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/home/necrofago/.config/hypr/looknfeel.conf",
+				"/home/necrofago/.config/hypr/envs.conf",
+				"/home/necrofago/.config/hypr/colors.conf",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/waybar/colors.css",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/waybar/update_system.sh",
+				"/home/necrofago/PKG/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+				"/home/necrofago/PKG/papirus.sh",
+				"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+				"/home/necrofago/.ssh/id_ed25519.pub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+				"/home/necrofago/.ssh/id_ed25519",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/swaync/style.css",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+				"/home/necrofago/.config/swaync/config.json",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/Transferências/btop.conf",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/swaync/colors.css",
+				"/home/necrofago/.config/swaync/1style.css",
+				"/home/necrofago/.config/matugen/config.toml",
+				"/home/necrofago/.config/matugen/templates/alacritty.toml",
+				"/home/necrofago/.config/swaync/rose-pine-moon.css",
+				"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+				"/home/necrofago/.config/swaync/rose-pine.css",
+				"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+				"/home/necrofago/.config/gtk-4.0/settings.ini",
+				"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+				"/home/necrofago/.config/dconf/user",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+				"/home/necrofago/.bashrc",
+				"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+				"/run/media/necrofago/NTFS/base_install/1_instalar",
+				"/run/media/necrofago/NTFS/base_install/Configuracoes",
+				"/home/necrofago/.zshrc",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+				"/etc/pacman.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+				"/home/necrofago/.config/hypr/apps.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/windows.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+				"/etc/auto-cpufreq.conf",
+				"/home/necrofago/.config/scripts/updates.sh",
+				"/home/necrofago/.config/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/swayosd/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+				"/home/necrofago/.config/matugen/templates/btop.theme",
+				"/home/necrofago/.config/btop/themes/matugen.theme",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+				"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+				"/home/necrofago/.config/rofi/launchers/style.rasi",
+				"/home/necrofago/.config/rofi/launchers/launcher.sh",
+				"/home/necrofago/.config/rofi/powermenu/style.rasi",
+				"/home/necrofago/.config/rofi/colors.rasi",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/pavucontrol.ini",
+				"/home/necrofago/.config/mimeapps.list",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
+				"/home/necrofago/.config/xfce4/helpers.rc"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"yay",
+					"sway",
+					"color2",
+					"color0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1152.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"win",
+						"windowrulev2"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bacg",
+						"background"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+					"settings":
+					{
+						"buffer_size": 725,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							33,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAgDAAAAAAAACAMAAAAAAAC9AAAAIyMjIyMjIyMjIyBGb250cyAjIyMjIwp0cml6ZW4gLVN5dSAtLW5vY29uZmlybSAtLW5lZWRlZCB0dGYtamV0YnJhaW5zLW1vbm8tbmVyZCAKI3R0Zi1qb3lwaXhlbHMgdHRmLWZpcmEtY29kZSB0dGYtZm9udC1hd2Vzb21lIFwKI25vdG8tZm9udHMgbm90by1mb250cy1lbW9qaSBub3RvLWZvbnRzLWNqayBub3RvLWZvbnRzLWV4dHJh",
+							"AQAAAAAAAAABAAAAxQMAAAAAAAAIAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"left_delete",
+							null,
+							"AQAAAN0CAAAAAAAA3QIAAAAAAAApAAAAI3N1ZG8gcGFjbWFuIC1TIGJsdWV6LXV0aWxzIGJyaWdodG5lc3NjdGw",
+							"AQAAAAAAAAABAAAABgMAAAAAAADdAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIMAAAAAAAAAgwAAAAAAAABrAQAAIyMjIyMjIyMjIyBDaGFvdGljICMjIyMjCnN1ZG8gcGFjbWFuLWtleSAtLXJlY3Yta2V5IDMwNTY1MTM4ODdCNzhBRUIgLS1rZXlzZXJ2ZXIga2V5c2VydmVyLnVidW50dS5jb20Kc3VkbyBwYWNtYW4ta2V5IC0tbHNpZ24ta2V5IDMwNTY1MTM4ODdCNzhBRUIKc3VkbyBwYWNtYW4gLVUgJ2h0dHBzOi8vY2RuLW1pcnJvci5jaGFvdGljLmN4L2NoYW90aWMtYXVyL2NoYW90aWMta2V5cmluZy5wa2cudGFyLnpzdCcKc3VkbyBwYWNtYW4gLVUgJ2h0dHBzOi8vY2RuLW1pcnJvci5jaGFvdGljLmN4L2NoYW90aWMtYXVyL2NoYW90aWMtbWlycm9ybGlzdC5wa2cudGFyLnpzdCcKc3VkbyBjcCAtciBwYWNtYW4uY29uZiAvZXRjCnRyaXplbiAtU3l1",
+							"AQAAAAAAAAABAAAA7gEAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA0AAAAAAAAADQAAAAAAAAB2AAAAIyMjIyMjIyMjIyBUcml6ZW4gIyMjIyMKZ2l0IGNsb25lIGh0dHBzOi8vYXVyLmFyY2hsaW51eC5vcmcvdHJpemVuLmdpdApjZCB0cml6ZW4KbWFrZXBrZyAtc2kKY2QgLi4Kc3VkbyBybSAtciB0cml6ZW4KCg",
+							"AQAAAAAAAAABAAAAgwAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 576,
+									"x": 368.7890625,
+									"y": 485.4375
+								}
+							},
+							"AQAAAD8CAAAAAAAAPwIAAAAAAAAtAAAAa2VlcGFzc3hjIGdub21lLWNhbGN1bGF0b3IgZ25vbWUtZGlzay11dGlsaXR5",
+							"AQAAAAAAAAABAAAAbAIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 597,
+									"x": 583.98828125,
+									"y": 481.7421875
+								}
+							},
+							"AQAAAFQCAAAAAAAAVAIAAAAAAAAOAAAAZ25vbWUtY2FsZW5kYXI",
+							"AQAAAAAAAAABAAAAYgIAAAAAAABUAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 561,
+									"x": 220.11328125,
+									"y": 485.171875
+								}
+							},
+							"AQAAADACAAAAAAAAMAIAAAAAAAAOAAAAeGFyY2hpdmVyIG1lbGQ",
+							"AQAAAAAAAAABAAAAPgIAAAAAAAAwAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 587,
+									"x": 236.01171875,
+									"y": 509.65625
+								}
+							},
+							"AQAAAEkCAAAAAAAASQIAAAAAAAAqAAAAdGh1bmFyIHRodW5hci1hcmNoaXZlLXBsdWdpbiB0aHVuYXItdm9sbWFu",
+							"AQAAAAAAAAABAAAAcwIAAAAAAABJAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"left_delete",
+							null,
+							"AQAAALUDAAAAAAAAtQMAAAAAAABnAAAAIyMjIyMjIyMjIERpc3BsYXkgTWFuYWdlciAjIyMgIApzdWRvIHBhY21hbiAtUyAtLW5vY29uZmlybSAtLW5lZWRlZCBseQpzdWRvIHN5c3RlbWN0bCBlbmFibGUgbHkuc2VydmljZQ",
+							"AQAAAAAAAAABAAAAHAQAAAAAAAC1AwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							85,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 125,
+									"x": 969.09765625,
+									"y": 153.875
+								}
+							},
+							"AQAAAHwAAAAAAAAAfAAAAAAAAAAJAAAAYWxhY3JpdHR5",
+							"AQAAAAAAAAABAAAAhQAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							91,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 554,
+									"x": 239.234375,
+									"y": 481.99609375
+								}
+							},
+							"AQAAACkCAAAAAAAAKQIAAAAAAAATAAAAcGF2dWNvbnRyb2wgcGFtaXhlcg",
+							"AQAAAAAAAAABAAAAPAIAAAAAAAApAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							95,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 128,
+									"x": 223.64453125,
+									"y": 177.09375
+								}
+							},
+							"AQAAAH8AAAAAAAAAfwAAAAAAAAAIAAAAcGlwZXdpcmU",
+							"AQAAAAAAAAABAAAAhwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							101,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 639,
+									"x": 308.9375,
+									"y": 549.98828125
+								}
+							},
+							"AQAAAH4CAAAAAAAAfgIAAAAAAAAOAAAAcGlwZXdpcmUtcHVsc2U",
+							"AQAAAAAAAAABAAAAjAIAAAAAAAB+AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 640,
+									"x": 327.8515625,
+									"y": 552.76171875
+								}
+							},
+							"AQAAAH8CAAAAAAAAfwIAAAAAAAAOAAAAc3VibGltZS10ZXh0LTQ",
+							"AQAAAAAAAAABAAAAjQIAAAAAAAB/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							131,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 426,
+									"x": 575.0546875,
+									"y": 403.33203125
+								}
+							},
+							"AQAAAJwBAAAAAAAAnAEAAAAAAAAvAAAAenNoIHpzaC1hdXRvc3VnZ2VzdGlvbnMgenNoLXN5bnRheC1oaWdobGlnaHRpbmc",
+							"AQAAAAAAAAABAAAAnAEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							142,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 65,
+									"x": 369.21484375,
+									"y": 157.390625
+								}
+							},
+							"AQAAADEAAAAAAAAAMQAAAAAAAAASAAAAaHlwcmxhbmQgaHlwcnBhcGVy",
+							"AQAAAAAAAAABAAAAMQAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							146,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 90,
+									"x": 619.03515625,
+									"y": 152.68359375
+								}
+							},
+							"AQAAAFkAAAAAAAAAWQAAAAAAAAAQAAAAaHlwcmxhbmQtcXR1dGlscw",
+							"AQAAAAAAAAABAAAAaQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							150,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 96,
+									"x": 245.6484375,
+									"y": 176.3125
+								}
+							},
+							"AQAAAF4AAAAAAAAAXgAAAAAAAAAzAAAAcXQ1LXdheWxhbmQgcXQ2LXdheWxhbmQgeGRnLWRlc2t0b3AtcG9ydGFsLWh5cHJsYW5k",
+							"AQAAAAAAAAABAAAAkQAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							156,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 136,
+									"x": 242.79296875,
+									"y": 201.90234375
+								}
+							},
+							"AQAAAIUAAAAAAAAAhQAAAAAAAAAIAAAAaHlwcnNob3Q",
+							"AQAAAAAAAAABAAAAjQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							163,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 260,
+									"x": 769.33984375,
+									"y": 372.5390625
+								}
+							},
+							"AQAAAAMBAAAAAAAAAwEAAAAAAAAOAAAAZmFzdGZldGNoIGJ0b3A",
+							"AQAAAAAAAAABAAAAEQEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							167,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 319,
+									"x": 574.14453125,
+									"y": 400.95703125
+								}
+							},
+							"AQAAAD0BAAAAAAAAPQEAAAAAAAANAAAAZGFya3RhYmxlLWdpdA",
+							"AQAAAAAAAAABAAAASgEAAAAAAAA9AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							174,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 17,
+									"x": 232.76953125,
+									"y": 129.88671875
+								}
+							},
+							"AQAAAA8AAAAAAAAADwAAAAAAAAAhAAAAdHJpemVuIC1TeSAtLW5vY29uZmlybSAtLW5lZWRlZCBc",
+							"AQAAAAAAAAABAAAAMAAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							178,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 46,
+									"x": 515.37890625,
+									"y": 154.6328125
+								}
+							},
+							"AQAAAC0AAAAAAAAALQAAAAAAAAAKAAAAYmFzZS1kZXZlbA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							182,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 18,
+									"x": 237.6953125,
+									"y": 162.8359375
+								}
+							},
+							"AQAAABEAAAAAAAAAEQAAAAAAAAAbAAAAYW1kLXVjb2RlIHhmODYtdmlkZW8tYW1kZ3B1",
+							"AQAAAAAAAAABAAAALAAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							187,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 26,
+									"x": 243.97265625,
+									"y": 180.96875
+								}
+							},
+							"AQAAABkAAAAAAAAAGQAAAAAAAAAWAAAAeGRnLWRlc2t0b3AtcG9ydGFsLWd0aw",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							192,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 138,
+									"x": 469.4921875,
+									"y": 375.89453125
+								}
+							},
+							"AQAAAIkAAAAAAAAAiQAAAAAAAAAPAAAAYmFzaC1jb21wbGV0aW9u",
+							"AQAAAAAAAAABAAAAmAAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							196,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 148,
+									"x": 569.6953125,
+									"y": 378.8046875
+								}
+							},
+							"AQAAAHQAAAAAAAAAdAAAAAAAAAAjAAAAYmF0IGRhc2ggbHNkIG50ZnMtM2cgIGd2ZnMgZ3Zmcy1tdHA",
+							"AQAAAAAAAAABAAAAdAAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							200,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 165,
+									"x": 454.3359375,
+									"y": 398.47265625
+								}
+							},
+							"AQAAAKQAAAAAAAAApAAAAAAAAAALAAAAb3BlbmNsLWFtZCA",
+							"AQAAAAAAAAABAAAArwAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							204,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 261,
+									"x": 530.99609375,
+									"y": 505.52734375
+								}
+							},
+							"AQAAAAQBAAAAAAAABAEAAAAAAAANAAAAeGRnLXVzZXItZGlycw",
+							"AQAAAAAAAAABAAAAEQEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							208,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 255,
+									"x": 472.94140625,
+									"y": 511.578125
+								}
+							},
+							"AQAAAP4AAAAAAAAA/gAAAAAAAAAFAAAAYnJhdmU",
+							"AQAAAAAAAAABAAAAAwEAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							214,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 232,
+									"x": 245.12109375,
+									"y": 505.6796875
+								}
+							},
+							"AQAAAOYAAAAAAAAA5gAAAAAAAAAHAAAAdHVtYmxlcg",
+							"AQAAAAAAAAABAAAA7QAAAAAAAADmAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							219,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 233,
+									"x": 249.2265625,
+									"y": 503.96875
+								}
+							},
+							"AQAAAOcAAAAAAAAA5wAAAAAAAAAPAAAAd2wtY29sb3ItcGlja2Vy",
+							"AQAAAAAAAAABAAAA9gAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							227,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 78,
+									"x": 222.8828125,
+									"y": 348.80859375
+								}
+							},
+							"AQAAAE0AAAAAAAAATQAAAAAAAAAiAAAAdHJpemVuIC1TeXUgLS1ub2NvbmZpcm0gLS1uZWVkZWQgXA",
+							"AQAAAAAAAAABAAAAbwAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							231,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 369,
+									"x": 949.69921875,
+									"y": 623.69140625
+								}
+							},
+							"AQAAAD8BAAAAAAAAPwEAAAAAAAA0AAAAcGFwaXJ1cy1mb2xkZXJzLWdpdCBwYXBpcnVzLWljb24tdGhlbWUgYWR3LWd0ay10aGVtZQ",
+							"AQAAAAAAAAABAAAAPwEAAAAAAABzAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							235,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 282,
+									"x": 435.14453125,
+									"y": 573.04296875
+								}
+							},
+							"AQAAABkBAAAAAAAAGQEAAAAAAAAMAAAAcXQ1Y3QgcXQ2Y3Qg",
+							"AQAAAAAAAAABAAAAJQEAAAAAAAAZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							239,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 250,
+									"x": 360.9140625,
+									"y": 553.32421875
+								}
+							},
+							"AQAAAPYAAAAAAAAA9gAAAAAAAAALAAAAbWF0dWdlbi1iaW4",
+							"AQAAAAAAAAABAAAAAQEAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							243,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 236,
+									"x": 221.58203125,
+									"y": 550.83203125
+								}
+							},
+							"AQAAAOsAAAAAAAAA6wAAAAAAAAAIAAAAbndnLWxvb2s",
+							"AQAAAAAAAAABAAAA8wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							248,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 251,
+									"x": 316.5546875,
+									"y": 573.12109375
+								}
+							},
+							"AQAAAPoAAAAAAAAA+gAAAAAAAAALAAAAcm9maSB3YXliYXI",
+							"AQAAAAAAAAABAAAABQEAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							252,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 243,
+									"x": 228.3984375,
+									"y": 575.59375
+								}
+							},
+							"AQAAAPEAAAAAAAAA8QAAAAAAAAAIAAAAd2F5cGFwZXI",
+							"AQAAAAAAAAABAAAA+QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							256,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 274,
+									"x": 233.98046875,
+									"y": 640.234375
+								}
+							},
+							"AQAAABABAAAAAAAAEAEAAAAAAAAgAAAAd2F5YmFyLW1vZHVsZS1wYWNtYW4tdXBkYXRlcy1naXQ",
+							"AQAAAAAAAAABAAAAMAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							260,
+							2,
+							"left_delete",
+							null,
+							"AgAAAIQAAAAAAAAAhAAAAAAAAACLAAAAIyMjIyMjIyMjIyBBcHBzICMjIyMjCnRyaXplbiAtU3l1IC0tbm9jb25maXJtIC0tbmVlZGVkIFwKICAgIFwKICAgIAp0cml6ZW4gLVN5dSAtLW5vY29uZmlybSAtLW5lZWRlZCBcCiAgICBcCiAgCgp0cml6ZW4gLVN5dSAtLW5vY29uZmlybSAgXIMAAAAAAAAAgwAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAADwEAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							263,
+							2,
+							"left_delete",
+							null,
+							"AgAAADIAAAAAAAAAMgAAAAAAAAADAAAACgoKMQAAAAAAAAAxAAAAAAAAAAEAAAAK",
+							"AQAAAAAAAAABAAAANQAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							277,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 43,
+									"x": 229.6015625,
+									"y": 200.9140625
+								}
+							},
+							"AQAAACoAAAAAAAAAKgAAAAAAAAAGAAAAc3dheW5j",
+							"AQAAAAAAAAABAAAAMAAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							281,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 27,
+									"x": 249.578125,
+									"y": 172.82421875
+								}
+							},
+							"AQAAABoAAAAAAAAAGgAAAAAAAAAMAAAAcG9sa2l0LWdub21l",
+							"AQAAAAAAAAABAAAAJgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							285,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA0AAAAAAAAADQAAAAAAAAAvAAAACgoKICAgICBcCiAgICBcCiAKCiMjIyMjIyMjIyMgVXRpbHMgIyMjIyMKCmdpdCA",
+							"AQAAAAAAAAABAAAAPAAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							290,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 31,
+									"x": 389.890625,
+									"y": 92.8828125
+								}
+							},
+							"AQAAABwAAAAAAAAAHAAAAAAAAAAHAAAAdWRpc2tpZQ",
+							"AQAAAAAAAAABAAAAIwAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							294,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 16,
+									"x": 242.51953125,
+									"y": 86.40234375
+								}
+							},
+							"AQAAAA8AAAAAAAAADwAAAAAAAAAMAAAAYXV0by1jcHVmcmVx",
+							"AQAAAAAAAAABAAAAGwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							298,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 20,
+									"x": 225.8359375,
+									"y": 110.9140625
+								}
+							},
+							"AQAAABMAAAAAAAAAEwAAAAAAAAAVAAAAYW5kcm9pZC1maWxlLXRyYW5zZmVy",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							302,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA0AAAAAAAAADQAAAAAAAABgAAAAICAgIFwKICAKCgoKI3RyaXplbiAtU3l1IC0tbm9jb25maXJtIGh5cHJsYW5kLXF0dXRpbHMgaHlwcmxvY2sgaHlwcnBpY2tlciBoeXByc2hvdCBoeXByc3Vuc2V0CgoK",
+							"AQAAAAAAAAABAAAAbQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							305,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAgAAAAAAAAACAAAAAAAAAABAAAAYQcAAAAAAAAABwAAAAAAAAABAAAAYg",
+							"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							311,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							312,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							314,
+							1,
+							"insert",
+							{
+								"characters": "cd"
+							},
+							"AgAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							315,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							318,
+							1,
+							"",
+							null,
+							"AQAAAA4AAAAAAAAAHQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							319,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							321,
+							1,
+							"insert",
+							{
+								"characters": ".."
+							},
+							"AgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							322,
+							1,
+							"left_delete",
+							null,
+							"AQAAAB8AAAAAAAAAHwAAAAAAAAABAAAALg",
+							"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							323,
+							1,
+							"insert",
+							{
+								"characters": " ."
+							},
+							"AgAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							324,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							331,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							332,
+							1,
+							"paste",
+							null,
+							"AQAAACMAAAAAAAAAJwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							334,
+							1,
+							"paste",
+							null,
+							"AQAAACgAAAAAAAAALAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAERA"
+						],
+						[
+							335,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							336,
+							1,
+							"paste",
+							null,
+							"AQAAAC0AAAAAAAAAMQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							337,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							338,
+							1,
+							"paste",
+							null,
+							"AQAAADIAAAAAAAAANgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							339,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							340,
+							1,
+							"paste",
+							null,
+							"AQAAADcAAAAAAAAAOwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							341,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADsAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							342,
+							1,
+							"paste",
+							null,
+							"AQAAADwAAAAAAAAAQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							343,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							344,
+							1,
+							"paste",
+							null,
+							"AQAAAEEAAAAAAAAARQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							345,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							346,
+							1,
+							"paste",
+							null,
+							"AQAAAEYAAAAAAAAASgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							347,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							348,
+							1,
+							"paste",
+							null,
+							"AQAAAEsAAAAAAAAATwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							349,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							350,
+							1,
+							"paste",
+							null,
+							"AQAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							351,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							352,
+							1,
+							"paste",
+							null,
+							"AQAAAFUAAAAAAAAAWQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							353,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							354,
+							1,
+							"paste",
+							null,
+							"AQAAAFoAAAAAAAAAXgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							355,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							361,
+							1,
+							"insert",
+							{
+								"characters": "trizen"
+							},
+							"BgAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							362,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							371,
+							1,
+							"",
+							null,
+							"AQAAADAAAAAAAAAAPgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							377,
+							1,
+							"insert",
+							{
+								"characters": "base."
+							},
+							"BQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							378,
+							1,
+							"insert",
+							{
+								"characters": "sh"
+							},
+							"AgAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							383,
+							1,
+							"insert",
+							{
+								"characters": "apps"
+							},
+							"BAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							384,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							389,
+							1,
+							"insert",
+							{
+								"characters": "audio"
+							},
+							"BQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							390,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							391,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							392,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGMAAAAAAAAAYwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							400,
+							1,
+							"",
+							null,
+							"AQAAAGgAAAAAAAAAegAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							404,
+							1,
+							"",
+							null,
+							"AQAAAH8AAAAAAAAAjgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAgGtA"
+						],
+						[
+							407,
+							1,
+							"insert",
+							{
+								"characters": "font"
+							},
+							"BAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAJYAAAAAAAAAlwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAwGdA"
+						],
+						[
+							408,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							416,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAJcAAAAAAAAAmAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							420,
+							1,
+							"insert",
+							{
+								"characters": "hyp"
+							},
+							"AwAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							421,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							422,
+							1,
+							"insert",
+							{
+								"characters": "lan"
+							},
+							"AwAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							423,
+							1,
+							"insert",
+							{
+								"characters": "d"
+							},
+							"AQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							424,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							429,
+							1,
+							"insert",
+							{
+								"characters": "the"
+							},
+							"AwAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACyAAAAAAAAAAAAAACyAAAAAAAAALMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							430,
+							1,
+							"insert",
+							{
+								"characters": "min"
+							},
+							"AwAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAC1AAAAAAAAALYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							431,
+							1,
+							"insert",
+							{
+								"characters": "g"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							432,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							434,
+							1,
+							"insert",
+							{
+								"characters": "zsh"
+							},
+							"AwAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAAMIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							435,
+							1,
+							"insert",
+							{
+								"characters": ".sh"
+							},
+							"AwAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							442,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMYAAAAAAAAAxgAAAAAAAAAJAAAALiAuLwouIC4v",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							446,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 229,
+									"x": 253.5234375,
+									"y": 436.515625
+								}
+							},
+							"AQAAAMkAAAAAAAAAyQAAAAAAAAAOAgAAIyMjIyMjIyMjIFNldGluZ3MgIyMjIyMKeGRnLXVzZXItZGlycy11cGRhdGUKc3VkbyBjcCAtciBiYWNrZ3JvdW5kcyB+L0ltYWdlbnMvCnN1ZG8gY3AgLXIgZ3J1YiAvZXRjL2RlZmF1bHQKc3VkbyBjcCAtciBtYWtlcGtnLmNvbmYgL2V0YwpjZCBjb25maWcKc3VkbyBjcCAtciAqIH4vLmNvbmZpZwpjZCAuLgpzdWRvIGNwIC5iYXNocmMgfgpzdWRvIGNwIC56c2hyYyB+CgojIyMjIyMjIyMgQ2hvd24gIyMjIyMKY2QKc3VkbyBjaG93biAtUiAke1VTRVJ9OiR7VVNFUn0gLmJhc2hyYwpzdWRvIGNob3duIC1SICR7VVNFUn06JHtVU0VSfSAuenNocmMKc3VkbyBjaG93biAtUiAke1VTRVJ9OiR7VVNFUn0gLmNvbmZpZwoKIyMjIyMjIyMjIyBVcGRhdGUgR3J1YiAjIyMjIwpzdWRvIGdydWItbWtjb25maWcgLW8gL2Jvb3QvZ3J1Yi9ncnViLmNmZwoKIyMjIyMjIyMjIyMjIyMjIyMjIyMJWlNICQkjIyMjIyMjIyMjIyMjIyMjIyMjIwpzdWRvIGNoc2ggLXMgL2Jpbi96c2ggcm9vdApjaHNoIC1zIC9iaW4venNoICR7TVlIT1NUTk19Cg",
+							"AQAAAAAAAAABAAAA1wIAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							450,
+							3,
+							"left_delete",
+							null,
+							"AwAAAMgAAAAAAAAAyAAAAAAAAAABAAAACscAAAAAAAAAxwAAAAAAAAABAAAACsYAAAAAAAAAxgAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							455,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAMYAAAAAAAAAxwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							456,
+							1,
+							"paste",
+							null,
+							"AQAAAMcAAAAAAAAA1QIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							462,
+							1,
+							"cut",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 203,
+									"x": 256.046875,
+									"y": 385.359375
+								}
+							},
+							"AQAAAMcAAAAAAAAAxwAAAAAAAAAOAgAAIyMjIyMjIyMjIFNldGluZ3MgIyMjIyMKeGRnLXVzZXItZGlycy11cGRhdGUKc3VkbyBjcCAtciBiYWNrZ3JvdW5kcyB+L0ltYWdlbnMvCnN1ZG8gY3AgLXIgZ3J1YiAvZXRjL2RlZmF1bHQKc3VkbyBjcCAtciBtYWtlcGtnLmNvbmYgL2V0YwpjZCBjb25maWcKc3VkbyBjcCAtciAqIH4vLmNvbmZpZwpjZCAuLgpzdWRvIGNwIC5iYXNocmMgfgpzdWRvIGNwIC56c2hyYyB+CgojIyMjIyMjIyMgQ2hvd24gIyMjIyMKY2QKc3VkbyBjaG93biAtUiAke1VTRVJ9OiR7VVNFUn0gLmJhc2hyYwpzdWRvIGNob3duIC1SICR7VVNFUn06JHtVU0VSfSAuenNocmMKc3VkbyBjaG93biAtUiAke1VTRVJ9OiR7VVNFUn0gLmNvbmZpZwoKIyMjIyMjIyMjIyBVcGRhdGUgR3J1YiAjIyMjIwpzdWRvIGdydWItbWtjb25maWcgLW8gL2Jvb3QvZ3J1Yi9ncnViLmNmZwoKIyMjIyMjIyMjIyMjIyMjIyMjIyMJWlNICQkjIyMjIyMjIyMjIyMjIyMjIyMjIwpzdWRvIGNoc2ggLXMgL2Jpbi96c2ggcm9vdApjaHNoIC1zIC9iaW4venNoICR7TVlIT1NUTk19Cg",
+							"AQAAAAAAAAABAAAA1QIAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							472,
+							1,
+							"paste",
+							null,
+							"AQAAAMcAAAAAAAAA1QIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"subl",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland"
+			],
+			"file_history":
+			[
+				"/home/necrofago/PKG/My-Projects/My_dwm/install.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/.config/hypr/bak-hyprland.conf",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/home/necrofago/.config/hypr/looknfeel.conf",
+				"/home/necrofago/.config/hypr/envs.conf",
+				"/home/necrofago/.config/hypr/colors.conf",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/waybar/colors.css",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/waybar/update_system.sh",
+				"/home/necrofago/PKG/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/run/media/necrofago/c122fbd4-d3f3-4ccc-947b-b6f6a4c65bfa/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/scripts/color",
+				"/home/necrofago/PKG/My-Projects/My_dwm/My_settings/X11/Xresources",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/grub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/makepkg.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/pacman.conf",
+				"/home/necrofago/PKG/papirus.sh",
+				"/home/necrofago/PKG/EZ1/My-Hypr_2025-07-25/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_11_01/install.sh",
+				"/home/necrofago/PKG/EZ1/My_dwm_2025_10_05/dwm.txt",
+				"/home/necrofago/.ssh/id_ed25519.pub",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/README.md",
+				"/home/necrofago/.ssh/id_ed25519",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/config.jsonc",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-font-set",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.local/share/omarchy/bin/omarchy-update-available",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/swaync/style.css",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/style.css",
+				"/home/necrofago/.config/swaync/config.json",
+				"/run/media/necrofago/1ca00876-a32d-4d46-8a13-5c49f1cfedcb/@home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/Transferências/btop.conf",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/swaync/colors.css",
+				"/home/necrofago/.config/swaync/1style.css",
+				"/home/necrofago/.config/matugen/config.toml",
+				"/home/necrofago/.config/matugen/templates/alacritty.toml",
+				"/home/necrofago/.config/swaync/rose-pine-moon.css",
+				"/home/necrofago/.config/swaync/rose-pine-dawn.css",
+				"/home/necrofago/.config/swaync/rose-pine.css",
+				"/home/necrofago/PKG/My-Hypr_2025-11-01/install.sh",
+				"/home/necrofago/.config/gtk-4.0/settings.ini",
+				"/home/necrofago/.config/gtk-4.0/libadwaita.css",
+				"/home/necrofago/.config/dconf/user",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/install.sh",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-11-01/config/mimeapps.list",
+				"/home/necrofago/.bashrc",
+				"/run/media/necrofago/NTFS/base_install/2_instalar.sh",
+				"/run/media/necrofago/NTFS/base_install/1_instalar",
+				"/run/media/necrofago/NTFS/base_install/Configuracoes",
+				"/home/necrofago/.zshrc",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/install.sh",
+				"/etc/pacman.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/config.jsonc",
+				"/home/necrofago/.config/hypr/apps.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-27/config/hypr/hyprland.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/waybar/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/waybar/indicators/screen-recording.sh",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/mirrorlist",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/pacman/pacman.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/windows.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/envs.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hypridle.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprlock.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/hyprsunset.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/input.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/config/hypr/monitors.conf",
+				"/etc/auto-cpufreq.conf",
+				"/home/necrofago/.config/scripts/updates.sh",
+				"/home/necrofago/.config/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/swayosd/config.toml",
+				"/home/necrofago/.config/swayosd/style.css",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/autostart.conf",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/install.sh",
+				"/home/necrofago/.config/matugen/templates/btop.theme",
+				"/home/necrofago/.config/btop/themes/matugen.theme",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/Novo ficheiro vazio Novo ficheiro vazio Novo ficheiro vazio",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Pulse.sh",
+				"/run/media/necrofago/NTFS/EZ1/My_dwm_2025_10_05/config/suckless/dwmblocks/Scripts/Clock.sh",
+				"/home/necrofago/.config/rofi/powermenu/powermenu.sh",
+				"/home/necrofago/.config/rofi/launchers/style.rasi",
+				"/home/necrofago/.config/rofi/launchers/launcher.sh",
+				"/home/necrofago/.config/rofi/powermenu/style.rasi",
+				"/home/necrofago/.config/rofi/colors.rasi",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/install.sh",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/pavucontrol.ini",
+				"/home/necrofago/.config/mimeapps.list",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/run/media/necrofago/NTFS/My-Hypr_2025-10-26/config.txt",
+				"/home/necrofago/.config/xfce4/helpers.rc",
+				"/home/necrofago/.config/xfce4/1xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml",
+				"/home/necrofago/.config/scripts/power-menu.sh",
+				"/home/necrofago/1.zshrc",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/themes/Rofi-Theme.rasi",
+				"/run/media/necrofago/NTFS/EZ1/My-Hypr_2025-07-25/config/rofi/config.rasi",
+				"/home/necrofago/.config/alacritty/colors.toml",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/system.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/browser.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/webcam-overlay.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/walker.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/terminals.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/steam.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/retroarch.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/pip.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/localsend.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/jetbrains.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/hyprshot.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/bitwarden.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/1password.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/apps/qemu.conf",
+				"/run/media/necrofago/NTFS/omarchy2025-10-23/local/share/omarchy/default/hypr/windows.conf",
+				"/home/necrofago/.config/matugen/templates/gtk-colors.css"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"yay",
+					"sway",
+					"color2",
+					"color0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/necrofago/PKG/My-Projects/My_hyprland"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										725,
+										725
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1133,1237,2304,1296,0",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"status_icn": false
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 47,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
