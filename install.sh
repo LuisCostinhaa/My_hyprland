@@ -18,7 +18,7 @@ trizen -Sy
 ######### Base #####
 trizen -Sy --noconfirm --needed \
 base-devel amd-ucode xf86-video-amdgpu bash-completion \
-bat dash lsd ntfs-3g gvfs gvfs-mtp opencl-amd xdg-user-dirs \
+bat dash lsd ntfs-3g gvfs 7zip gvfs-mtp opencl-amd xdg-user-dirs \
 polkit-gnome udiskie
 
 ######### Hyprland #####
@@ -54,11 +54,11 @@ trizen -Sy --noconfirm --needed \
 gnome-calculator gnome-disk-utility gnome-calendar \
 xarchiver meld keepassxc \
 alacritty sublime-text-4 \
-fastfetch btop 
+fastfetch btop
 
 trizen -Sy --noconfirm --needed \
 darktable-git \
-brave \
+brave librewolf\
 wl-color-picker \
 rofi waybar waypaper waybar-module-pacman-updates-git swaync \
 auto-cpufreq \
@@ -67,6 +67,10 @@ android-file-transfer
 ######### Display Manager #####
 sudo pacman -S --noconfirm --needed ly
 sudo systemctl enable ly.service
+
+######### Firewall #####
+sudo pacman -S --noconfirm --needed ufw
+sudo systemctl enable ufw.service
 
 ######### Setings #####
 xdg-user-dirs-update
