@@ -270,6 +270,8 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
 #macchina
 fastfetch
 #
+export EDITOR="subl"
+#
 #LC_CTYPE=pt_PT.UTF-8
 #LC_ALL=pt_PT.UTF-8
 #
@@ -329,3 +331,4 @@ alias ss="trizen -Ss"
 alias cpu="sudo auto-cpufreq --live"
 alias syu="trizen -Syu"
 alias r="trizen -R"
+alias y="yazi"

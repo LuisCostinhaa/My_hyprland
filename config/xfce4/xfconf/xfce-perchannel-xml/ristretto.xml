@@ -8,7 +8,7 @@
     <property name="height" type="uint" value="2097"/>
     <property name="width" type="uint" value="3800"/>
     <property name="thumbnails" type="empty">
-      <property name="size" type="uint" value="3"/>
+      <property name="size" type="uint" value="2"/>
     </property>
   </property>
   <property name="image" type="empty">

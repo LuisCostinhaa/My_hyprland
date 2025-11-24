@@ -17,6 +17,8 @@ export PS1='\[\e[0;36m\]\u\[\e[0m\]@\[\e[0;32m\]\h\[\e[0m\]:\[\e[0;35m\]\w\[\e[0
 #macchina
 fastfetch
 #
+export EDITOR="subl"
+#
 source /usr/share/blesh/ble.sh
 #
 #
