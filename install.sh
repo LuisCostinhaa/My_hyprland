@@ -2,7 +2,7 @@
 
 ######### Trizen #####
 git clone https://aur.archlinux.org/trizen.git
-cd trizen
+cd trizen || exit
 makepkg -si
 cd ..
 sudo rm -r trizen
@@ -54,7 +54,8 @@ trizen -Sy --noconfirm --needed \
 gnome-calculator gnome-disk-utility gnome-calendar \
 xarchiver meld keepassxc \
 alacritty sublime-text-4 \
-fastfetch btop
+fastfetch btop \
+lact
 
 trizen -Sy --noconfirm --needed \
 darktable-git \
@@ -77,21 +78,21 @@ xdg-user-dirs-update
 sudo cp -r backgrounds ~/Imagens/
 sudo cp -r grub /etc/default
 sudo cp -r makepkg.conf /etc
-cd config
-sudo cp -r * ~/.config
+cd config || exit
+sudo cp -r ./* ~/.config
 cd ..
 sudo cp .bashrc ~
 sudo cp .zshrc ~
 
 ######### Chown #####
-cd
-sudo chown -R ${USER}:${USER} .bashrc
-sudo chown -R ${USER}:${USER} .zshrc
-sudo chown -R ${USER}:${USER} .config
+cd || exit
+sudo chown -R "${USER}":"${USER}" .bashrc
+sudo chown -R "${USER}":"${USER}" .zshrc
+sudo chown -R "${USER}":"${USER}" .config
 
 ########## Update Grub #####
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ####################	ZSH		####################
 sudo chsh -s /bin/zsh root
-chsh -s /bin/zsh ${MYHOSTNM}
+chsh -s /bin/zsh "${MYHOSTNM}"
