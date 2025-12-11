@@ -95,4 +95,4 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ####################	ZSH		####################
 sudo chsh -s /bin/zsh root
-chsh -s /bin/zsh "${MYHOSTNM}"
+chsh -s /bin/zsh ${MYHOSTNM}
