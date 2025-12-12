@@ -76,7 +76,7 @@ sudo systemctl enable ufw.service
 ######### Setings #####
 xdg-user-dirs-update
 cd sddm
-sudo cp -r Sugar-Candy /usr/share/sddm/themes/
+sudo cp -r theme.conf /usr/share/sddm/themes/Sugar-Candy
 cd ..
 sudo cp -r backgrounds ~/Imagens/
 sudo cp -r sddm.conf /etc/
