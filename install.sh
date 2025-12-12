@@ -66,20 +66,20 @@ auto-cpufreq \
 android-file-transfer
 
 ######### Display Manager #####
-sudo pacman -S --noconfirm --needed sddm sddm-theme-sugar-candy-git
+trizen -Sy --noconfirm --needed sddm sddm-theme-sugar-candy-git
 sudo systemctl enable sddm.service
 
 ######### Firewall #####
-sudo pacman -S --noconfirm --needed ufw
+trizen -Sy --noconfirm --needed ufw
 sudo systemctl enable ufw.service
 
 ######### Setings #####
 xdg-user-dirs-update
 cd sddm
-sudo cp -r sugar-Candy /usr/share/sddm/themes/
+sudo cp -r Sugar-Candy /usr/share/sddm/themes/
 cd ..
 sudo cp -r backgrounds ~/Imagens/
-sudo cp -r sddm.conf ~/etc/
+sudo cp -r sddm.conf /etc/
 sudo cp -r grub /etc/default
 sudo cp -r makepkg.conf /etc
 cd config || exit
@@ -90,6 +90,8 @@ sudo cp .zshrc ~
 
 ######### Chown #####
 cd || exit
+mkdir -p ISOs PKG/My-Projects
+sudo mv My_hyprland PKG/My-Projects
 sudo chown -R "${USER}":"${USER}" .bashrc
 sudo chown -R "${USER}":"${USER}" .zshrc
 sudo chown -R "${USER}":"${USER}" .config
