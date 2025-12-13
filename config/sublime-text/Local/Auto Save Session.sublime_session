@@ -1,9 +1,19 @@
 {
 	"file_history":
 	[
-		"/home/necrofago/PKG/base_install/git.txt",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
+		"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
+		"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
+		"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
+		"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
+		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
 		"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session"
@@ -19,7 +29,7 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 629.0,
+		"new_window_height": 1296.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -69,9 +79,22 @@
 			},
 			"file_history":
 			[
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
+				"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session",
 				"/usr/share/sddm/scripts/wayland-session",
 				"/etc/sddm.conf",
 				"/home/necrofago/PKG/base_install/Configuracoes",
@@ -204,7 +227,7 @@
 			{
 			}
 		},
-		"new_window_width": 1152.0
+		"new_window_width": 2304.0
 	},
 	"windows":
 	[
@@ -255,13 +278,24 @@
 			"expanded_folders":
 			[
 				"/home/necrofago/PKG/My-Projects/My_hyprland",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm"
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr"
 			],
 			"file_history":
 			[
-				"/home/necrofago/PKG/base_install/git.txt",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
 				"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session",
