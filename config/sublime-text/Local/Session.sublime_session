@@ -1,35 +1,19 @@
 {
 	"file_history":
 	[
-		"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
-		"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
-		"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
-		"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
-		"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
-		"/home/necrofago/PKG/base_install/git.txt",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
-		"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session"
 	],
 	"folder_history":
 	[
 		"/home/necrofago/PKG/My-Projects/My_hyprland"
 	],
 	"last_version": 4200,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"next_update_check": 1765661259,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1296.0,
+		"new_window_height": 1259.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -80,8 +64,10 @@
 			"file_history":
 			[
 				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/run/media/necrofago/Ventoy/inst.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
@@ -91,7 +77,6 @@
 				"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
 				"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session",
@@ -138,7 +123,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -170,7 +155,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -187,7 +172,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -227,7 +212,7 @@
 			{
 			}
 		},
-		"new_window_width": 2304.0
+		"new_window_width": 1152.0
 	},
 	"windows":
 	[
@@ -244,6 +229,73 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+					"settings":
+					{
+						"buffer_size": 4930,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPkGAAAAAAAA+QYAAAAAAAAJAAAAbGlicmV3b2xm",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACBwAAAAAAAPkGAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAPoGAAAAAAAA+wYAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6BgAAAAAAAPoGAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"paste",
+							null,
+							"AQAAAPsGAAAAAAAABAcAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7BgAAAAAAAPsGAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " \\"
+							},
+							"AgAAAAQHAAAAAAAABQcAAAAAAAAAAAAABQcAAAAAAAAGBwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEBwAAAAAAAAQHAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+					"settings":
+					{
+						"buffer_size": 6861,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -277,14 +329,14 @@
 			},
 			"expanded_folders":
 			[
-				"/home/necrofago/PKG/My-Projects/My_hyprland",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm"
+				"/home/necrofago/PKG/My-Projects/My_hyprland"
 			],
 			"file_history":
 			[
+				"/run/media/necrofago/Ventoy/inst.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
 				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
@@ -341,7 +393,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -382,12 +434,100 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										541,
+										541
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4930,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1798,
+										1798
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6861,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6137,
+										6129
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1404.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -424,11 +564,11 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1133,1237,2304,1296,0",
+			"position": "0,1,0,0,0,0,0,1133,611,2304,1296,0",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
