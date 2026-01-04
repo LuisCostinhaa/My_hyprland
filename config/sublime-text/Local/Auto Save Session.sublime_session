@@ -1,6 +1,7 @@
 {
 	"file_history":
 	[
+		"/home/necrofago/PKG/base_install/Pacotes",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 		"/home/necrofago/PKG/base_install/virt-manager.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
@@ -258,6 +259,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -295,6 +304,7 @@
 			],
 			"file_history":
 			[
+				"/home/necrofago/PKG/base_install/Pacotes",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 				"/home/necrofago/PKG/base_install/virt-manager.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
@@ -409,6 +419,36 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
