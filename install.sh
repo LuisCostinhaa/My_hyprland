@@ -80,6 +80,7 @@ cd sddm
 sudo cp -r ./* /usr/share/sddm/themes/Sugar-Candy
 cd ..
 sudo cp -r backgrounds ~/Imagens/
+sudo cp -r fonts ~/.local/share/
 sudo cp -r sddm.conf /etc/
 sudo cp -r grub /etc/default
 sudo cp -r makepkg.conf /etc

@@ -1,5 +1,7 @@
 {
-	"font_face": "JetBrainsMono Nerd Font Mono",
+	"font_face": "Google Sans Flex",
 	"font_size": 13,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "auto",
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
 }

@@ -11,9 +11,9 @@
 #waybar {
     background:     transparent;
     color:          @primary;
-    font-family:    JetBrainsMono Nerd Font;
-    font-weight:    bold;
-    font-size:      14px;
+    font-family:    "Google Sans Flex";
+    font-weight:    900;
+    font-size:      15px;
 }
 
 /* Each module */

@@ -29,20 +29,20 @@
 
     "clock#time": {
         "interval": 60,
-        "format": "  {:%H:%M} ",
+        "format": "   {:%H:%M} ",
         "tooltip": false
     },
 
     "clock#date": {
       "interval": 339,
-      "format": "  {:%e %b %Y} ", // Icon: calendar-alt
+      "format": "   {:%e %b %Y} ", // Icon: calendar-alt
       "tooltip-format": "{:%e %B %Y}",
       "on-click": "gnome-calendar"
     },
 
     "cpu": {
         "interval": 9,
-        "format": "  {usage}%({load}) ", // Icon: microchip
+        "format": "   {usage}%({load}) ", // Icon: microchip
         "states": {
           "warning": 70,
           "critical": 90
@@ -61,8 +61,8 @@
         "format": "     ",
         "format-wifi": "{essid} ({signalStrength}%) ",
         //"format-ethernet": "{ipaddr}/{cidr} 󰊗",
-        "format-ethernet": "    on  ",
-        "format-disconnected": "    of  ", //An empty format will hide the module.
+        "format-ethernet": "     on  ",
+        "format-disconnected": "     of  ", //An empty format will hide the module.
         "tooltip-format": "{ifname} via {gwaddr} 󰊗",
         "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
         "tooltip-format-ethernet": "{ifname} ",
@@ -81,9 +81,9 @@
         "disable-scroll": true,
         "format": "{icon} {name}",
         "format-icons": {
-            "urgent": "",
-            "active": "",
-            "default": ""
+            "urgent": " ",
+            "active": " ",
+            "default": " "
         },
         "icon-size": 10,
         "sort-by-number": true,
@@ -100,9 +100,9 @@
     "pulseaudio": {
         "scroll-step": 5,
         "format": " {icon}  {volume}% ",
-        "format-muted": "   0% ",
+        "format-muted": "    0%  ",
         "format-icons": {
-            "default": [ "", ""]
+            "default": [ " ", " "]
         },
         "on-click": "pavucontrol",
         "on-click-right": "pamixer -t"
