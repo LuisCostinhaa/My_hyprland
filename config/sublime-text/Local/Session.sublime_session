@@ -1,20 +1,21 @@
 {
 	"file_history":
 	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
-		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 		"/home/necrofago/PKG/base_install/Pacotes",
 		"/home/necrofago/PKG/base_install/virt-manager.txt",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
 		"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
 		"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
@@ -37,7 +38,7 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1296.0,
+		"new_window_height": 621.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -87,20 +88,21 @@
 			},
 			"file_history":
 			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 				"/home/necrofago/PKG/base_install/Pacotes",
 				"/home/necrofago/PKG/base_install/virt-manager.txt",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
 				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
 				"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
@@ -167,7 +169,7 @@
 			],
 			"find":
 			{
-				"height": 43.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -181,6 +183,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"trizen"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -256,7 +259,7 @@
 			{
 			}
 		},
-		"new_window_width": 2304.0
+		"new_window_width": 1144.0
 	},
 	"windows":
 	[
@@ -306,24 +309,26 @@
 			},
 			"expanded_folders":
 			[
-				"/home/necrofago/PKG/My-Projects/My_hyprland"
+				"/home/necrofago/PKG/My-Projects/My_hyprland",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config"
 			],
 			"file_history":
 			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 				"/home/necrofago/PKG/base_install/Pacotes",
 				"/home/necrofago/PKG/base_install/virt-manager.txt",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
 				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
 				"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
@@ -390,7 +395,7 @@
 			],
 			"find":
 			{
-				"height": 43.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -404,6 +409,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"trizen"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -473,7 +479,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,2282,1237,2304,1296,0",
+			"position": "0,1,0,0,0,0,0,1133,611,2304,1296,0",
 			"project": "",
 			"replace":
 			{

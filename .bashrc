@@ -23,7 +23,7 @@ source /usr/share/blesh/ble.sh
 #
 #
 alias cat="bat"
-alias ccache="trizen -Scc"
+alias ccache="yay -Scc"
 alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 alias grep='grep --color=auto'
 alias ip="ip a"
@@ -53,9 +53,9 @@ alias matrix="cmatrix  -s"
 alias reloud="source ~/.zshrc"
 alias p="poweroff"
 alias papirus="papirus-folders -C"
-alias sy="trizen -Sy"
-alias ss="trizen -Ss"
+alias sy="yay -Sy"
+alias ss="yay -Ss"
 alias cpu="sudo auto-cpufreq --live"
-alias syu="trizen -Syu"
+alias syu="yay -Syu"
 alias r="reboot"
 alias y="yazi"
