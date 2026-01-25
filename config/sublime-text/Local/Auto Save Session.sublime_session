@@ -284,6 +284,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -448,6 +456,36 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -490,7 +528,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,2378,1291,2400,1350,0",
+			"position": "0,1,0,0,0,0,0,1181,1291,2400,1350,0",
 			"project": "",
 			"replace":
 			{

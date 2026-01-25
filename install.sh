@@ -48,7 +48,7 @@ pavucontrol pamixer pipewire pipewire-pulse
 ######### Theming #####
 yay -Syu --noconfirm --needed \
 papirus-folders-git papirus-icon-theme adw-gtk-theme \
-matugen-bin nwg-look
+matugen-bin nwg-look colloid-icon-theme
 
 ######### Apps #####
 yay -Sy --noconfirm --needed \
