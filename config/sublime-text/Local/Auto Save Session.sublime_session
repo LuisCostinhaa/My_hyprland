@@ -1,19 +1,20 @@
 {
 	"file_history":
 	[
+		"/home/necrofago/PKG/base_install/git.txt",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
 		"/home/necrofago/Novo ficheiro vazio 1",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/usr/bin/waypaper",
 		"/home/necrofago/PKG/waypaper/setup.py",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
-		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
@@ -38,11 +39,11 @@
 	"last_version": 4200,
 	"last_window_id": 5,
 	"log_indexing": false,
-	"next_update_check": 1769428336,
+	"next_update_check": 1770551536,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1350.0,
+		"new_window_height": 1387.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -92,19 +93,20 @@
 			},
 			"file_history":
 			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/Novo ficheiro vazio 1",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/usr/bin/waypaper",
 				"/home/necrofago/PKG/waypaper/setup.py",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
@@ -267,7 +269,7 @@
 			{
 			}
 		},
-		"new_window_width": 2400.0
+		"new_window_width": 1272.0
 	},
 	"windows":
 	[
@@ -329,19 +331,20 @@
 			],
 			"file_history":
 			[
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
 				"/home/necrofago/Novo ficheiro vazio 1",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/usr/bin/waypaper",
 				"/home/necrofago/PKG/waypaper/setup.py",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
@@ -528,7 +531,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1181,1291,2400,1350,0",
+			"position": "0,1,0,0,0,0,0,1261,1381,2560,1440,0",
 			"project": "",
 			"replace":
 			{

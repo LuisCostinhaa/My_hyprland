@@ -55,8 +55,7 @@ yay -Sy --noconfirm --needed \
 gnome-calculator gnome-disk-utility gnome-calendar \
 xarchiver meld keepassxc \
 alacritty sublime-text-4 \
-fastfetch btop \
-lact
+fastfetch btop
 
 yay -Sy --noconfirm --needed \
 darktable-git \
