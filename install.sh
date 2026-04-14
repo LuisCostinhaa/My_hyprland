@@ -18,7 +18,7 @@ yay -Sy
 
 ######### Base #####
 yay -Sy --noconfirm --needed \
-base-devel amd-ucode xf86-video-amdgpu bash-completion \
+base-devel amd-ucode xf86-video-amdgpu bash-completion mesa-utils mtools sg3_utils smartmontools efitools \
 bat dash lsd ntfs-3g gvfs 7zip gvfs-mtp opencl-amd xdg-user-dirs \
 polkit-gnome udiskie
 

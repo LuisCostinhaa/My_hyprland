@@ -1,0 +1,743 @@
+{
+	"file_history":
+	[
+		"/home/necrofago/PKG/base_install/instalar",
+		"/home/necrofago/PKG/base_install/Pacotes",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/colors.css",
+		"/home/necrofago/.config/matugen/templates/rofi-colors.rasi",
+		"/home/necrofago/PKG/base_install/git.txt",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
+		"/home/necrofago/Novo ficheiro vazio 1",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+		"/usr/bin/waypaper",
+		"/home/necrofago/PKG/waypaper/setup.py",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
+		"/home/necrofago/PKG/base_install/virt-manager.txt",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
+		"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
+		"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
+		"/home/necrofago/.thunderbird/profiles.ini",
+		"/home/necrofago/.thunderbird/installs.ini",
+		"/home/necrofago/.config/gtk-3.0/settings.ini",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/settings.ini",
+		"/home/necrofago/Novo ficheiro vazio",
+		"/usr/share/sddm/themes/Sugar-Candy/theme.conf"
+	],
+	"folder_history":
+	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland"
+	],
+	"last_version": 4200,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"next_update_check": 1773006225,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1440.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			30.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"JetBrain",
+						"JetBrainsMono"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/base_install/Configuracoes",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
+				"/home/necrofago/PKG/base_install/instalar",
+				"/home/necrofago/PKG/base_install/Pacotes",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/colors.css",
+				"/home/necrofago/.config/matugen/templates/rofi-colors.rasi",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
+				"/home/necrofago/Novo ficheiro vazio 1",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/usr/bin/waypaper",
+				"/home/necrofago/PKG/waypaper/setup.py",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
+				"/home/necrofago/PKG/base_install/virt-manager.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
+				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
+				"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
+				"/home/necrofago/.thunderbird/profiles.ini",
+				"/home/necrofago/.thunderbird/installs.ini",
+				"/home/necrofago/.config/gtk-3.0/settings.ini",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/settings.ini",
+				"/home/necrofago/Novo ficheiro vazio",
+				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+				"/run/media/necrofago/Ventoy/inst.sh",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
+				"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session",
+				"/usr/share/sddm/scripts/wayland-session",
+				"/etc/sddm.conf",
+				"/etc/sddm.conf.d",
+				"/etc/sudo.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/scripts/Reload-waybar.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/scripts/power-menu.sh",
+				"/home/necrofago/.config/GREYC/gmic_qt.conf",
+				"/home/necrofago/.config/lact/ui.yaml",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/home/necrofago/.config/sublime-merge/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/nwg-look/config",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/run/media/necrofago/87d42771-4879-40dd-bfeb-d3e9fcaca478/@home/necrofago/.config/dconf/user",
+				"/home/necrofago/.config/fastfetch/config.jsonc",
+				"/home/necrofago/.config/fontconfig/fonts.conf",
+				"/home/necrofago/.config/fcitx5/conf/xcb.conf",
+				"/home/necrofago/.config/fcitx5/conf/notifications.conf",
+				"/home/necrofago/.config/fcitx5/conf/clipboard.conf",
+				"/home/necrofago/.config/fcitx5/conf/cached_layouts",
+				"/home/necrofago/.config/environment.d/fcitx.conf",
+				"/home/necrofago/.config/btop/themes/current.theme",
+				"/home/necrofago/.config/autostart/walker.desktop",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/.config/hypr/xdph.conf",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/hypr/input.conf.bak.1765401979",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/hypridle.conf",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/uwsm/env",
+				"/home/necrofago/.config/uwsm/default",
+				"/home/necrofago/.local/share/omarchy/config/uwsm/env",
+				"/home/necrofago/.local/share/omarchy/config/uwsm/default"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"trizen"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"JetBrain",
+						"JetBrainsMono"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
+					"settings":
+					{
+						"buffer_size": 720,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAADOAgAAW1NldHRpbmdzXQpsYW5ndWFnZSA9IGVuCmZvbGRlciA9IH4vSW1hZ2Vucy9iYWNrZ3JvdW5kcwptb25pdG9ycyA9IEFsbAp3YWxscGFwZXIgPSB+L0ltYWdlbnMvYmFja2dyb3VuZHMvb3Nha2FqYWRlLmpwZwpzaG93X3BhdGhfaW5fdG9vbHRpcCA9IFRydWUKYmFja2VuZCA9IHN3d3cKZmlsbCA9IGZpbGwKc29ydCA9IG5hbWUKY29sb3IgPSAjZmZmZmZmCnN1YmZvbGRlcnMgPSBGYWxzZQphbGxfc3ViZm9sZGVycyA9IEZhbHNlCnNob3dfaGlkZGVuID0gRmFsc2UKc2hvd19naWZzX29ubHkgPSBGYWxzZQp6ZW5fbW9kZSA9IEZhbHNlCm51bWJlcl9vZl9jb2x1bW5zID0gMwptcHZwYXBlcl9zb3VuZCA9IEZhbHNlCm1wdnBhcGVyX29wdGlvbnMgPSAKdXNlX3hkZ19zdGF0ZSA9IEZhbHNlCnNwbGFzaCA9IEZhbHNlCnBvc3RfY29tbWFuZCA9IG1hdHVnZW4gLS1zaG93LWNvbG9ycyAtdCBzY2hlbWUtZmlkZWxpdHkgaW1hZ2UgJHdhbGxwYXBlcgpzdHlsZXNoZWV0ID0gL2hvbWUvbmVjcm9mYWdvLy5jb25maWcvd2F5cGFwZXIvc3R5bGUuY3NzCmtleWJpbmRpbmdzID0gfi8uY29uZmlnL3dheXBhcGVyL2tleWJpbmRpbmdzLmluaQpzd3d3X3RyYW5zaXRpb25fdHlwZSA9IGFueQpzd3d3X3RyYW5zaXRpb25fc3RlcCA9IDYzCnN3d3dfdHJhbnNpdGlvbl9hbmdsZSA9IDAKc3d3d190cmFuc2l0aW9uX2R1cmF0aW9uID0gMgpzd3d3X3RyYW5zaXRpb25fZnBzID0gNjAKCgAAAAAAAAAAywIAAAAAAAAAAAAAAAAAAAAAAADOAgAAAAAAAAAAAAAAAAAAAAAAAMsCAAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAADLAgAAW1NldHRpbmdzXQpsYW5ndWFnZSA9IGVuCmZvbGRlciA9IH4vSW1hZ2Vucy9iYWNrZ3JvdW5kcwptb25pdG9ycyA9IEFsbAp3YWxscGFwZXIgPSB+L0ltYWdlbnMvYmFja2dyb3VuZHMvcDlvNmVqLmpwZwpzaG93X3BhdGhfaW5fdG9vbHRpcCA9IFRydWUKYmFja2VuZCA9IHN3d3cKZmlsbCA9IGZpbGwKc29ydCA9IG5hbWUKY29sb3IgPSAjZmZmZmZmCnN1YmZvbGRlcnMgPSBGYWxzZQphbGxfc3ViZm9sZGVycyA9IEZhbHNlCnNob3dfaGlkZGVuID0gRmFsc2UKc2hvd19naWZzX29ubHkgPSBGYWxzZQp6ZW5fbW9kZSA9IEZhbHNlCm51bWJlcl9vZl9jb2x1bW5zID0gMwptcHZwYXBlcl9zb3VuZCA9IEZhbHNlCm1wdnBhcGVyX29wdGlvbnMgPSAKdXNlX3hkZ19zdGF0ZSA9IEZhbHNlCnNwbGFzaCA9IEZhbHNlCnBvc3RfY29tbWFuZCA9IG1hdHVnZW4gLS1zaG93LWNvbG9ycyAtdCBzY2hlbWUtZmlkZWxpdHkgaW1hZ2UgJHdhbGxwYXBlcgpzdHlsZXNoZWV0ID0gL2hvbWUvbmVjcm9mYWdvLy5jb25maWcvd2F5cGFwZXIvc3R5bGUuY3NzCmtleWJpbmRpbmdzID0gfi8uY29uZmlnL3dheXBhcGVyL2tleWJpbmRpbmdzLmluaQpzd3d3X3RyYW5zaXRpb25fdHlwZSA9IGFueQpzd3d3X3RyYW5zaXRpb25fc3RlcCA9IDYzCnN3d3dfdHJhbnNpdGlvbl9hbmdsZSA9IDAKc3d3d190cmFuc2l0aW9uX2R1cmF0aW9uID0gMgpzd3d3X3RyYW5zaXRpb25fZnBzID0gNjAKCgAAAAAAAAAAywIAAAAAAAAAAAAAAAAAAAAAAADQAgAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANABAAAAAAAAogEAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAADQAgAAW1NldHRpbmdzXQpsYW5ndWFnZSA9IGVuCmZvbGRlciA9IH4vSW1hZ2Vucy9iYWNrZ3JvdW5kcwptb25pdG9ycyA9IEFsbAp3YWxscGFwZXIgPSB+L0ltYWdlbnMvYmFja2dyb3VuZHMvNGx2emRwLmpwZwpzaG93X3BhdGhfaW5fdG9vbHRpcCA9IFRydWUKYmFja2VuZCA9IGh5cHJwYXBlcgpmaWxsID0gZmlsbApzb3J0ID0gbmFtZQpjb2xvciA9ICNmZmZmZmYKc3ViZm9sZGVycyA9IEZhbHNlCmFsbF9zdWJmb2xkZXJzID0gRmFsc2UKc2hvd19oaWRkZW4gPSBGYWxzZQpzaG93X2dpZnNfb25seSA9IEZhbHNlCnplbl9tb2RlID0gRmFsc2UKbnVtYmVyX29mX2NvbHVtbnMgPSAzCm1wdnBhcGVyX3NvdW5kID0gRmFsc2UKbXB2cGFwZXJfb3B0aW9ucyA9IAp1c2VfeGRnX3N0YXRlID0gRmFsc2UKc3BsYXNoID0gRmFsc2UKcG9zdF9jb21tYW5kID0gbWF0dWdlbiAtLXNob3ctY29sb3JzIC10IHNjaGVtZS1maWRlbGl0eSBpbWFnZSAkd2FsbHBhcGVyCnN0eWxlc2hlZXQgPSAvaG9tZS9uZWNyb2ZhZ28vLmNvbmZpZy93YXlwYXBlci9zdHlsZS5jc3MKa2V5YmluZGluZ3MgPSB+Ly5jb25maWcvd2F5cGFwZXIva2V5YmluZGluZ3MuaW5pCnN3d3dfdHJhbnNpdGlvbl90eXBlID0gYW55CnN3d3dfdHJhbnNpdGlvbl9zdGVwID0gNjMKc3d3d190cmFuc2l0aW9uX2FuZ2xlID0gMApzd3d3X3RyYW5zaXRpb25fZHVyYXRpb24gPSAyCnN3d3dfdHJhbnNpdGlvbl9mcHMgPSA2MAoKAAAAAAAAAADQAgAAAAAAAAAAAAAAAAAAAAAAANACAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+					"settings":
+					{
+						"buffer_size": 4964,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/necrofago/PKG/base_install/Configuracoes",
+					"settings":
+					{
+						"buffer_size": 1872,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland"
+			],
+			"file_history":
+			[
+				"/home/necrofago/PKG/base_install/instalar",
+				"/home/necrofago/PKG/base_install/Pacotes",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/colors.css",
+				"/home/necrofago/.config/matugen/templates/rofi-colors.rasi",
+				"/home/necrofago/PKG/base_install/git.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/Templates/Cosmic-2602-3/packages.x86_64",
+				"/home/necrofago/Novo ficheiro vazio 1",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/monitors.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/looknfeel.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/usr/bin/waypaper",
+				"/home/necrofago/PKG/waypaper/setup.py",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
+				"/home/necrofago/PKG/base_install/virt-manager.txt",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
+				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
+				"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
+				"/home/necrofago/.thunderbird/profiles.ini",
+				"/home/necrofago/.thunderbird/installs.ini",
+				"/home/necrofago/.config/gtk-3.0/settings.ini",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/settings.ini",
+				"/home/necrofago/Novo ficheiro vazio",
+				"/usr/share/sddm/themes/Sugar-Candy/theme.conf",
+				"/run/media/necrofago/Ventoy/inst.sh",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/LoginForm.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SessionButton.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/SystemButtons.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/UserList.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/User.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/AUTHORS",
+				"/usr/share/sddm/themes/Sugar-Candy/Assets/Suspend.svgz",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Input.qml",
+				"/usr/share/sddm/themes/Sugar-Candy/Components/Clock.qml",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Session.sublime_session",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Local/Auto Save Session.sublime_session",
+				"/home/necrofago/.config/sublime-text/Local/Auto Save Session.sublime_session",
+				"/usr/share/sddm/scripts/wayland-session",
+				"/etc/sddm.conf",
+				"/home/necrofago/PKG/base_install/Configuracoes",
+				"/etc/sddm.conf.d",
+				"/etc/sudo.conf",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/scripts/Reload-waybar.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/scripts/power-menu.sh",
+				"/home/necrofago/.config/GREYC/gmic_qt.conf",
+				"/home/necrofago/.config/lact/ui.yaml",
+				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
+				"/home/necrofago/.config/sublime-merge/scripts/Reload-waybar.sh",
+				"/home/necrofago/.config/nwg-look/config",
+				"/home/necrofago/.config/btop/btop.conf",
+				"/run/media/necrofago/87d42771-4879-40dd-bfeb-d3e9fcaca478/@home/necrofago/.config/dconf/user",
+				"/home/necrofago/.config/fastfetch/config.jsonc",
+				"/home/necrofago/.config/fontconfig/fonts.conf",
+				"/home/necrofago/.config/fcitx5/conf/xcb.conf",
+				"/home/necrofago/.config/fcitx5/conf/notifications.conf",
+				"/home/necrofago/.config/fcitx5/conf/clipboard.conf",
+				"/home/necrofago/.config/fcitx5/conf/cached_layouts",
+				"/home/necrofago/.config/environment.d/fcitx.conf",
+				"/home/necrofago/.config/btop/themes/current.theme",
+				"/home/necrofago/.config/autostart/walker.desktop",
+				"/home/necrofago/.config/alacritty/alacritty.toml",
+				"/home/necrofago/.config/user-dirs.dirs",
+				"/home/necrofago/.config/user-dirs.locale",
+				"/home/necrofago/.config/waybar/config.jsonc",
+				"/home/necrofago/.config/waybar/style.css",
+				"/home/necrofago/.config/hypr/autostart.conf",
+				"/home/necrofago/.config/hypr/xdph.conf",
+				"/home/necrofago/.config/hypr/monitors.conf",
+				"/home/necrofago/.config/hypr/input.conf.bak.1765401979",
+				"/home/necrofago/.config/hypr/input.conf",
+				"/home/necrofago/.config/hypr/hyprland.conf",
+				"/home/necrofago/.config/hypr/hypridle.conf",
+				"/home/necrofago/.config/hypr/bindings.conf",
+				"/home/necrofago/.config/uwsm/env",
+				"/home/necrofago/.config/uwsm/default",
+				"/home/necrofago/.local/share/omarchy/config/uwsm/env",
+				"/home/necrofago/.local/share/omarchy/config/uwsm/default"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"trizen"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/necrofago/PKG/My-Projects/My_hyprland"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 4964,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1728.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/necrofago/PKG/base_install/Configuracoes",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1872,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1135,
+										1117
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										430,
+										422
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,2538,1381,2560,1440,0",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
