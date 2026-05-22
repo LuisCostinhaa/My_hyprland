@@ -11,9 +11,9 @@
 #waybar {
     background:     transparent;
     color:          @primary;
-    font-family:    "Google Sans Flex";
-    font-weight:    900;
-    font-size:      15px;
+    font-family:    "Google Sans Flex Regular";
+    font-weight:    500;
+    font-size:      16px;
 }
 
 /* Each module */
