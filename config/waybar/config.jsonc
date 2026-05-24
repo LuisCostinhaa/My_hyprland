@@ -30,7 +30,8 @@
     "clock#time": {
         "interval": 60,
         "format": "   {:%H:%M} ",
-        "tooltip": false
+        "tooltip": false,
+        "on-click": "gnome-clocks"
     },
 
     "clock#date": {

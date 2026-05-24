@@ -271,6 +271,7 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
 fastfetch
 #
 export EDITOR="subl"
+
 #
 #LC_CTYPE=pt_PT.UTF-8
 #LC_ALL=pt_PT.UTF-8
@@ -307,7 +308,9 @@ alias reloud="source ~/.zshrc"
 alias p="poweroff"
 alias papirus="papirus-folders -C"
 alias sy="yay -Sy"
-alias ss="yay -Ss"
+alias i="yay -S"
+alias rr="yay -R"
+alias s="yay -Ss"
 alias cpu="sudo auto-cpufreq --live"
 alias syu="yay -Syu"
 alias r="reboot"

@@ -1,7 +1,15 @@
 {
 	"file_history":
 	[
+		"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+		"/home/necrofago/.zshenv",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+		"/run/media/necrofago/Ext4/My_hyprland/install.sh",
+		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/Transferências/My_hyprland/install.sh",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
@@ -11,7 +19,6 @@
 		"/home/necrofago/.local/share/applications/vlc.sh",
 		"/home/necrofago/.local/share/applications/mimeinfo.cache",
 		"/home/necrofago/.local/share/applications/MasterPDF.sh",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/autostart.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/gtk.css",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/sublime-text/Packages/Default/Preferences.sublime-settings",
@@ -64,12 +71,10 @@
 		"/run/media/necrofago/b40589c5-454d-4ee7-abe0-aee257a8b6d6/necrofago/.config/gtk-4.0/gtk.css",
 		"/run/media/necrofago/b40589c5-454d-4ee7-abe0-aee257a8b6d6/necrofago/.config/gtk-4.0/colors.css",
 		"/run/media/necrofago/b40589c5-454d-4ee7-abe0-aee257a8b6d6/necrofago/.config/alacritty/alacritty.toml",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/home/necrofago/PKG/base_install/Archlinux2022-09-20.txt",
 		"/home/necrofago/PKG/master-pdf-editor-5-9-82-unlocked-edition/README.md",
 		"/home/necrofago/PKG/base_install/1_instalar",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bak-hyprland.conf",
-		"/home/necrofago/PKG/base_install/git.txt",
 		"/home/necrofago/PKG/base_install/Configuracoes",
 		"/home/necrofago/.librewolf/1mczdqzm.default-default/chrome/websites/UserContent.css",
 		"/home/necrofago/PKG/base_install/instalar",
@@ -82,11 +87,9 @@
 		"/usr/bin/waypaper",
 		"/home/necrofago/PKG/waypaper/setup.py",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 		"/home/necrofago/PKG/base_install/virt-manager.txt",
 		"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
@@ -105,11 +108,11 @@
 	"last_version": 4200,
 	"last_window_id": 21,
 	"log_indexing": false,
-	"next_update_check": 1779542356,
+	"next_update_check": 1779628756,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1387.0,
+		"new_window_height": 1440.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -195,7 +198,15 @@
 			},
 			"file_history":
 			[
+				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/home/necrofago/.zshenv",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+				"/run/media/necrofago/Ext4/My_hyprland/install.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/Transferências/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
@@ -205,7 +216,6 @@
 				"/home/necrofago/.local/share/applications/vlc.sh",
 				"/home/necrofago/.local/share/applications/mimeinfo.cache",
 				"/home/necrofago/.local/share/applications/MasterPDF.sh",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/autostart.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/gtk.css",
 				"/home/necrofago/.config/user-dirs.locale",
@@ -238,12 +248,10 @@
 				"/home/necrofago/.config/mimeapps.list",
 				"/home/necrofago/.config/user-dirs.dirs",
 				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/base_install/Archlinux2022-09-20.txt",
 				"/home/necrofago/PKG/master-pdf-editor-5-9-82-unlocked-edition/README.md",
 				"/home/necrofago/PKG/base_install/1_instalar",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bak-hyprland.conf",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/base_install/Configuracoes",
 				"/home/necrofago/.librewolf/1mczdqzm.default-default/chrome/websites/UserContent.css",
 				"/home/necrofago/PKG/base_install/instalar",
@@ -256,11 +264,9 @@
 				"/usr/bin/waypaper",
 				"/home/necrofago/PKG/waypaper/setup.py",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 				"/home/necrofago/PKG/base_install/virt-manager.txt",
 				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
@@ -415,7 +421,7 @@
 			{
 			}
 		},
-		"new_window_width": 1272.0
+		"new_window_width": 2560.0
 	},
 	"windows":
 	[
@@ -503,13 +509,19 @@
 			[
 				"/home/necrofago/PKG/My-Projects/My_hyprland",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/matugen",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper"
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr"
 			],
 			"file_history":
 			[
+				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/home/necrofago/.zshenv",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
+				"/run/media/necrofago/Ext4/My_hyprland/install.sh",
+				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/Transferências/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/config.ini",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bindings.conf",
@@ -519,7 +531,6 @@
 				"/home/necrofago/.local/share/applications/vlc.sh",
 				"/home/necrofago/.local/share/applications/mimeinfo.cache",
 				"/home/necrofago/.local/share/applications/MasterPDF.sh",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/autostart.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-3.0/gtk.css",
 				"/home/necrofago/.config/user-dirs.locale",
@@ -552,12 +563,10 @@
 				"/home/necrofago/.config/mimeapps.list",
 				"/home/necrofago/.config/user-dirs.dirs",
 				"/home/necrofago/.config/xsettingsd/xsettingsd.conf",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/base_install/Archlinux2022-09-20.txt",
 				"/home/necrofago/PKG/master-pdf-editor-5-9-82-unlocked-edition/README.md",
 				"/home/necrofago/PKG/base_install/1_instalar",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/bak-hyprland.conf",
-				"/home/necrofago/PKG/base_install/git.txt",
 				"/home/necrofago/PKG/base_install/Configuracoes",
 				"/home/necrofago/.librewolf/1mczdqzm.default-default/chrome/websites/UserContent.css",
 				"/home/necrofago/PKG/base_install/instalar",
@@ -570,11 +579,9 @@
 				"/usr/bin/waypaper",
 				"/home/necrofago/PKG/waypaper/setup.py",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/update_system.sh",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.bashrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/sddm/theme.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/powermenu/style.rasi",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/rofi/launchers/style.rasi",
 				"/home/necrofago/PKG/base_install/virt-manager.txt",
 				"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
@@ -723,7 +730,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1261,1381,2560,1440,0",
+			"position": "0,1,0,0,0,0,0,2538,1381,2560,1440,0",
 			"project": "",
 			"replace":
 			{

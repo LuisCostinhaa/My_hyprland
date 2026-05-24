@@ -8,7 +8,7 @@
 
 (language "en_US")
 (prev-language "en_US")
-(config-version "3.2.2")
+(config-version "3.2.4")
 (default-image
     (icon-name "gimp-display")
     (width 3840)
