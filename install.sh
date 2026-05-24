@@ -26,7 +26,7 @@ polkit-gnome udiskie
 yay -Sy --noconfirm --needed \
 hyprland hyprpaper hyprland-qtutils qt5-wayland qt6-wayland \
 xdg-desktop-portal-hyprland hyprshot xdg-desktop-portal-gtk \
-qt5ct qt6ct swww kvantum gnome-clocks
+qt5ct qt6ct swww kvantum gnome-clocks mission-center
 
 ######### File Manager #####
 yay -Sy --noconfirm --needed \

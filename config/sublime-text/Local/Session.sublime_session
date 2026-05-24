@@ -1,10 +1,11 @@
 {
 	"file_history":
 	[
-		"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+		"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
 		"/home/necrofago/.zshenv",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
@@ -40,7 +41,6 @@
 		"/home/necrofago/.config/matugen/apirus-folders/wallpaper.sh",
 		"/home/necrofago/.config/matugen/templates/older-color.txt",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-4.0/gtk.css",
-		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 		"/home/necrofago/.config/brave-flags.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/hyprpaper.conf",
@@ -198,10 +198,11 @@
 			},
 			"file_history":
 			[
-				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
 				"/home/necrofago/.zshenv",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
@@ -231,7 +232,6 @@
 				"/home/necrofago/.config/matugen/apirus-folders/wallpaper.sh",
 				"/home/necrofago/.config/matugen/templates/older-color.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-4.0/gtk.css",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/.config/brave-flags.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/hyprpaper.conf",
@@ -329,7 +329,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -508,15 +508,15 @@
 			"expanded_folders":
 			[
 				"/home/necrofago/PKG/My-Projects/My_hyprland",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr"
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config"
 			],
 			"file_history":
 			[
-				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
+				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/windows.conf",
+				"/home/necrofago/.config/Kvantum/kvantum.kvconfig",
 				"/home/necrofago/.zshenv",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/.zshrc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/hypr/envs.conf",
@@ -546,7 +546,6 @@
 				"/home/necrofago/.config/matugen/apirus-folders/wallpaper.sh",
 				"/home/necrofago/.config/matugen/templates/older-color.txt",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/gtk-4.0/gtk.css",
-				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/alacritty/alacritty.toml",
 				"/home/necrofago/.config/brave-flags.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waypaper/hyprpaper.conf",
@@ -644,7 +643,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -730,7 +729,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,2538,1381,2560,1440,0",
+			"position": "0,1,0,0,0,0,0,1261,1381,2560,1440,0",
 			"project": "",
 			"replace":
 			{

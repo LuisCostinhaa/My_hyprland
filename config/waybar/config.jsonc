@@ -48,7 +48,8 @@
           "warning": 70,
           "critical": 90
         },
-        "on-click": "alacritty -e sh -c btop "
+        "on-click": "missioncenter"
+        //"on-click": "alacritty -e sh -c btop "
     },
 
     //"memory": {
@@ -134,6 +135,7 @@
          "format-critical": "  {temperatureC}°C ",
          "format": "  {temperatureC}°C "
             },
-      "tooltip": true
+      "tooltip": true,
+      "on-click": "missioncenter"
     },
 }
