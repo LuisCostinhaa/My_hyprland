@@ -105,6 +105,10 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo chsh -s /bin/zsh root
 chsh -s /bin/zsh ${MYHOSTNM}
 
+####################	Desempenho	####################
+sudo auto-cpufreq --install
+sudo auto-cpufreq --turbo auto
+
 ####################	Simlink		####################
 
 rm -r ~/.bashrc
@@ -157,3 +161,4 @@ rm -r ~/.config/qt5ct
 ln -s ~/PKG/My-Projects/My_hyprland/config/qt5ct ~/.config/qt5ct
 rm -r ~/.zshenv 
 ln -s ~/PKG/My-Projects/My_hyprland/.zshenv ~/.zshenv
+

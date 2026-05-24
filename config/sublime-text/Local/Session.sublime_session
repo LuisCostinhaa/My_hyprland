@@ -1,6 +1,8 @@
 {
 	"file_history":
 	[
+		"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/hyprland.conf",
+		"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/input.conf",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 		"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
@@ -112,7 +114,7 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1440.0,
+		"new_window_height": 1387.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -198,6 +200,12 @@
 			},
 			"file_history":
 			[
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bindings.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/monitors.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/hyprland.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bak-hyprland.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/autostart.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/input.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
@@ -319,17 +327,11 @@
 				"/home/necrofago/.config/hypr/monitors.conf",
 				"/home/necrofago/.config/hypr/input.conf.bak.1765401979",
 				"/home/necrofago/.config/hypr/input.conf",
-				"/home/necrofago/.config/hypr/hyprland.conf",
-				"/home/necrofago/.config/hypr/hypridle.conf",
-				"/home/necrofago/.config/hypr/bindings.conf",
-				"/home/necrofago/.config/uwsm/env",
-				"/home/necrofago/.config/uwsm/default",
-				"/home/necrofago/.local/share/omarchy/config/uwsm/env",
-				"/home/necrofago/.local/share/omarchy/config/uwsm/default"
+				"/home/necrofago/.config/hypr/hyprland.conf"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -421,7 +423,7 @@
 			{
 			}
 		},
-		"new_window_width": 2560.0
+		"new_window_width": 1272.0
 	},
 	"windows":
 	[
@@ -450,6 +452,46 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/autostart.conf",
+					"settings":
+					{
+						"buffer_size": 340,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bak-hyprland.conf",
+					"settings":
+					{
+						"buffer_size": 9550,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/hyprland.conf",
+					"settings":
+					{
+						"buffer_size": 348,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/monitors.conf",
+					"settings":
+					{
+						"buffer_size": 790,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bindings.conf",
+					"settings":
+					{
+						"buffer_size": 4327,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -512,6 +554,8 @@
 			],
 			"file_history":
 			[
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/hyprland.conf",
+				"/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/input.conf",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/install.sh",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/config.jsonc",
 				"/home/necrofago/PKG/My-Projects/My_hyprland/config/waybar/style.css",
@@ -637,13 +681,11 @@
 				"/home/necrofago/.config/hypr/hypridle.conf",
 				"/home/necrofago/.config/hypr/bindings.conf",
 				"/home/necrofago/.config/uwsm/env",
-				"/home/necrofago/.config/uwsm/default",
-				"/home/necrofago/.local/share/omarchy/config/uwsm/env",
-				"/home/necrofago/.local/share/omarchy/config/uwsm/default"
+				"/home/necrofago/.config/uwsm/default"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -687,6 +729,154 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/autostart.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bak-hyprland.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/hyprland.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 348,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/monitors.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 790,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/run/media/necrofago/eed72c50-7d35-4f98-98e9-065254cd67e9/necrofago/.config/hypr/bindings.conf",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],

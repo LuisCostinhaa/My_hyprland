@@ -133,9 +133,9 @@
          "hwmon-path": "/sys/devices/pci0000:00/0000:00:18.3/hwmon/hwmon3/temp1_input",
          "critical-threshold": 60,
          "format-critical": "  {temperatureC}°C ",
-         "format": "  {temperatureC}°C "
+         "format": "  {temperatureC}°C ",
+         "on-click": "missioncenter"
             },
-      "tooltip": true,
-      "on-click": "missioncenter"
+      "tooltip": true
     },
 }
