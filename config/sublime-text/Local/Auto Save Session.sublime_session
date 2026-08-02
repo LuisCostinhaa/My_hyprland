@@ -1,6 +1,7 @@
 {
 	"file_history":
 	[
+		"/home/necrofago/PKG/My-Projects/My_hyprland/simlink.sh",
 		"/run/media/necrofago/02a66fc0-8209-4f20-a6ed-5e42aa8748c8/vm/PKG/My-Projects/My_hyprland_lua/install.sh",
 		"/run/media/necrofago/2470145c-bb68-463e-b13d-7da8a5089038/vm/.config/hypr/hyprland.lua",
 		"/home/necrofago/.config/hypr/hyprland.conf",
@@ -127,8 +128,7 @@
 		"/home/necrofago/.thunderbird/9ro3ev3j.default-release/Mail/Local Folders/msgFilterRules.dat",
 		"/home/necrofago/.thunderbird/5gx28pby.default/times.json",
 		"/home/necrofago/.thunderbird/profiles.ini",
-		"/home/necrofago/.thunderbird/installs.ini",
-		"/home/necrofago/.config/gtk-3.0/settings.ini"
+		"/home/necrofago/.thunderbird/installs.ini"
 	],
 	"folder_history":
 	[
@@ -479,6 +479,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/necrofago/PKG/base_install/git.txt",
+					"settings":
+					{
+						"buffer_size": 541,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -542,6 +550,7 @@
 			],
 			"file_history":
 			[
+				"/home/necrofago/PKG/My-Projects/My_hyprland/simlink.sh",
 				"/run/media/necrofago/02a66fc0-8209-4f20-a6ed-5e42aa8748c8/vm/PKG/My-Projects/My_hyprland_lua/install.sh",
 				"/run/media/necrofago/2470145c-bb68-463e-b13d-7da8a5089038/vm/.config/hypr/hyprland.lua",
 				"/home/necrofago/.config/hypr/hyprland.conf",
@@ -668,8 +677,7 @@
 				"/home/necrofago/.config/fastfetch/config.jsonc",
 				"/home/necrofago/.config/fontconfig/fonts.conf",
 				"/home/necrofago/.config/fcitx5/conf/xcb.conf",
-				"/home/necrofago/.config/fcitx5/conf/notifications.conf",
-				"/home/necrofago/.config/fcitx5/conf/clipboard.conf"
+				"/home/necrofago/.config/fcitx5/conf/notifications.conf"
 			],
 			"find":
 			{
@@ -717,6 +725,36 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/necrofago/PKG/base_install/git.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],

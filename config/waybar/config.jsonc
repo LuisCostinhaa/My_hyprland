@@ -48,8 +48,7 @@
           "warning": 70,
           "critical": 90
         },
-        "on-click": "missioncenter"
-        //"on-click": "alacritty -e sh -c btop "
+        "on-click": "alacritty -e sh -c btop "
     },
 
     //"memory": {

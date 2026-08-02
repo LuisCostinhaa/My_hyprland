@@ -13,7 +13,7 @@
     color:          @primary;
     font-family:    "Google Sans Flex Regular";
     font-weight:    500;
-    font-size:      17px;
+    font-size:      26px;
 }
 
 /* Each module */
@@ -32,8 +32,8 @@
     margin-top: 3px;
     margin-left: 6px;
     margin-right: 6px;
-    border-radius: 6px;
-    border: 2px solid @inverse_primary;
+    border-radius: 8px;
+    border: 3px solid @inverse_primary;
 }
 
 /* -----------------------------------------------------------------------------

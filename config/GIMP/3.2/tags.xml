@@ -238,592 +238,592 @@
   <resource identifier="external:${gimp_data_dir}/dynamics/Velocity-Tapering.gdyn//Velocity Tapering" checksum="(null)">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/100%_Opaque.myb//100% Opaque" checksum="dba34eb70ff72295b544e5ded94d1315">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/100%_Opaque.myb//100% Opaque" checksum="dba34eb70ff72295b544e5ded94d1315">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/1pixel.myb//1pixel" checksum="edc5df19469776f35d08d24f9248c406">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/1pixel.myb//1pixel" checksum="edc5df19469776f35d08d24f9248c406">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/2B_pencil.myb//2B pencil" checksum="abaa73df608d192d62bd3a33636cf1ba">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/2B_pencil.myb//2B pencil" checksum="abaa73df608d192d62bd3a33636cf1ba">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/2B_pencil.myb//2B pencil #1" checksum="7136280b33d2f2cb27c2cfcc96c57ce4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/2B_pencil.myb//2B pencil #1" checksum="7136280b33d2f2cb27c2cfcc96c57ce4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/4H_pencil.myb//4H pencil" checksum="2718434e495370fb4d96d217a3c524c2">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/4H_pencil.myb//4H pencil" checksum="2718434e495370fb4d96d217a3c524c2">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/8B_Pencil#1.myb//8B Pencil#1" checksum="7be408b38498aa78171fab1f96484f13">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/8B_Pencil#1.myb//8B Pencil#1" checksum="7be408b38498aa78171fab1f96484f13">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-03-only-water.myb//acrylic 03 only water" checksum="8e76d58e5779a6d3938bace274dfe2b8">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-03-only-water.myb//acrylic 03 only water" checksum="8e76d58e5779a6d3938bace274dfe2b8">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-03-paint.myb//acrylic 03 paint" checksum="43b224601a1e6d4bd57029ff4fad7c84">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-03-paint.myb//acrylic 03 paint" checksum="43b224601a1e6d4bd57029ff4fad7c84">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-03-with-water.myb//acrylic 03 with water" checksum="d44bc8ca226a2c2f60b4e68242a04773">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-03-with-water.myb//acrylic 03 with water" checksum="d44bc8ca226a2c2f60b4e68242a04773">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-04-only-water.myb//acrylic 04 only water" checksum="d1e977c6b6ad2e92ea09902e8eb05ccd">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-04-only-water.myb//acrylic 04 only water" checksum="d1e977c6b6ad2e92ea09902e8eb05ccd">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-04-paint.myb//acrylic 04 paint" checksum="fcb1af88a3aa32bb05d74b8089245132">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-04-paint.myb//acrylic 04 paint" checksum="fcb1af88a3aa32bb05d74b8089245132">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-04-with-water.myb//acrylic 04 with water" checksum="9fe02487208b01e342b3cea28a08f73e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-04-with-water.myb//acrylic 04 with water" checksum="9fe02487208b01e342b3cea28a08f73e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-05-only-water.myb//acrylic 05 only water" checksum="69595df4a62dd9a8a25d0d5042a73334">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-05-only-water.myb//acrylic 05 only water" checksum="69595df4a62dd9a8a25d0d5042a73334">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-05-paint.myb//acrylic 05 paint" checksum="0c3fd7b8893095f33c417db1d9fdeb23">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-05-paint.myb//acrylic 05 paint" checksum="0c3fd7b8893095f33c417db1d9fdeb23">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/acrylic-05-with-water.myb//acrylic 05 with water" checksum="b084fce3af26562e2ebebc57ed0734f9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/acrylic-05-with-water.myb//acrylic 05 with water" checksum="b084fce3af26562e2ebebc57ed0734f9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/airbruch_press_a.myb//airbruch press a" checksum="2124811bb2fc34a7e513eab2b83c04ab">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/airbruch_press_a.myb//airbruch press a" checksum="2124811bb2fc34a7e513eab2b83c04ab">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/airbrush.myb//airbrush" checksum="e0a42db004a2031d79bbad9cf7932fbb">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/airbrush.myb//airbrush" checksum="e0a42db004a2031d79bbad9cf7932fbb">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/Airbrush_a.myb//Airbrush a" checksum="a1452f0bb3cb9b12bb675217f6bd9e35">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/Airbrush_a.myb//Airbrush a" checksum="a1452f0bb3cb9b12bb675217f6bd9e35">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/airsmudge_a.myb//airsmudge a" checksum="dc8fa0d02e617af4edf1cf6c55e4b530">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/airsmudge_a.myb//airsmudge a" checksum="dc8fa0d02e617af4edf1cf6c55e4b530">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/airsmudgeultimate_sk.myb//airsmudgeultimate sk" checksum="0d171b9a901deff13618681583ca6516">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/airsmudgeultimate_sk.myb//airsmudgeultimate sk" checksum="0d171b9a901deff13618681583ca6516">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/arrow#1.myb//arrow#1" checksum="826525b292e5ac86183a5074497d98dc">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/arrow#1.myb//arrow#1" checksum="826525b292e5ac86183a5074497d98dc">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/ballpen.myb//ballpen" checksum="0df9565cf6dad98cb80e809346d0bda7">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/ballpen.myb//ballpen" checksum="0df9565cf6dad98cb80e809346d0bda7">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/basic.myb//basic" checksum="92832b48532ab5e997843216d34c173a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/basic.myb//basic" checksum="92832b48532ab5e997843216d34c173a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/basic_digital_brush.myb//basic digital brush" checksum="ea4b32f5e0f096850bf8a324a5430485">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/basic_digital_brush.myb//basic digital brush" checksum="ea4b32f5e0f096850bf8a324a5430485">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/basic_digital_brush_smudging.myb//basic digital brush smudging" checksum="db84aa0c3a872ac3a28cfea64820f78b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/basic_digital_brush_smudging.myb//basic digital brush smudging" checksum="db84aa0c3a872ac3a28cfea64820f78b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/basic_digital_knife.myb//basic digital knife" checksum="487dcbc1afac31f23c06f14cc97d679a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/basic_digital_knife.myb//basic digital knife" checksum="487dcbc1afac31f23c06f14cc97d679a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/basic_digital_knife_smudging.myb//basic digital knife smudging" checksum="62b21082fa2492e916825df3f820f8b2">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/basic_digital_knife_smudging.myb//basic digital knife smudging" checksum="62b21082fa2492e916825df3f820f8b2">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Beamlight.myb//Beamlight" checksum="91a10104dfd5bfdf6bca31b00936d6f0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Beamlight.myb//Beamlight" checksum="91a10104dfd5bfdf6bca31b00936d6f0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/BigAirbrush.myb//BigAirbrush" checksum="faa4428842e786fffb727376c7cffa8b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/BigAirbrush.myb//BigAirbrush" checksum="faa4428842e786fffb727376c7cffa8b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Blender.myb//Blender" checksum="032421c09cbe7c86b201a7cb7447af87">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Blender.myb//Blender" checksum="7609d8cf4d10d4694f02102a44710e63">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/blending.myb//blending" checksum="89bacabea1b6ab79f50a7bb62082158b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/blending.myb//blending" checksum="89bacabea1b6ab79f50a7bb62082158b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/blending_knife.myb//blending knife" checksum="b586418309e743386584e59b808e2eef">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/blending_knife.myb//blending knife" checksum="b586418309e743386584e59b808e2eef">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/blend+paint.myb//blend+paint" checksum="bce3bd91fc31fadc39dafa95e33d9614">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/blend+paint.myb//blend+paint" checksum="bce3bd91fc31fadc39dafa95e33d9614">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/blur.myb//blur" checksum="abb560c56b05a005c32a7d82024880ea">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/blur.myb//blur" checksum="abb560c56b05a005c32a7d82024880ea">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Blur_Fast.myb//Blur Fast" checksum="3e14060e7440e0f8447f3fbb5c6710d6">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Blur_Fast.myb//Blur Fast" checksum="3e14060e7440e0f8447f3fbb5c6710d6">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/B-pencil.myb//B pencil" checksum="2988d540b16ef2e32d500e6b7af6d3cd">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/B-pencil.myb//B pencil" checksum="2988d540b16ef2e32d500e6b7af6d3cd">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/brush.myb//brush" checksum="edcc0d95df5c1e1388bd9a0216d46acb">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/brush.myb//brush" checksum="edcc0d95df5c1e1388bd9a0216d46acb">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/brush.myb//brush #1" checksum="08853a92bb7d6536cfbacaff07ac845f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/brush.myb//brush #1" checksum="08853a92bb7d6536cfbacaff07ac845f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/bubble.myb//bubble" checksum="2e5b3bf9452b28c4ac3f2b879b6df52e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/bubble.myb//bubble" checksum="2e5b3bf9452b28c4ac3f2b879b6df52e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/bulk.myb//bulk" checksum="e44e2dbadcd1335160a29e46322c6356">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/bulk.myb//bulk" checksum="e44e2dbadcd1335160a29e46322c6356">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/calligraphy.myb//calligraphy" checksum="c0e50b42e3a0958e057fa2ae005d7a39">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/calligraphy.myb//calligraphy" checksum="c0e50b42e3a0958e057fa2ae005d7a39">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/chalk.myb//chalk" checksum="1b58ab464cf85642e35694f9c9806924">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/chalk.myb//chalk" checksum="1b58ab464cf85642e35694f9c9806924">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/charcoal.myb//charcoal" checksum="c9b07a3269e570b8cb49ffc64cd6f43f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/charcoal.myb//charcoal" checksum="c9b07a3269e570b8cb49ffc64cd6f43f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/charcoal-01.myb//charcoal 01" checksum="b34b9dd07c266b80d8cae0c076005602">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/charcoal-01.myb//charcoal 01" checksum="b34b9dd07c266b80d8cae0c076005602">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/charcoal-03.myb//charcoal 03" checksum="8be4441824cfd2bfa10df49a42500f6e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/charcoal-03.myb//charcoal 03" checksum="8be4441824cfd2bfa10df49a42500f6e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/charcoal-04.myb//charcoal 04" checksum="25eb71e3b3c2c3ee5dbbda6b42799e21">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/charcoal-04.myb//charcoal 04" checksum="25eb71e3b3c2c3ee5dbbda6b42799e21">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/charcoal-blur1.myb//charcoal blur1" checksum="c8b7b28b8478b554f42d4e4a63796a11">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/charcoal-blur1.myb//charcoal blur1" checksum="c8b7b28b8478b554f42d4e4a63796a11">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Classic_Paint.myb//Classic Paint" checksum="652661a003f0969a8d63c5276c21af3b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Classic_Paint.myb//Classic Paint" checksum="652661a003f0969a8d63c5276c21af3b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/classicroundblock_static_c.myb//classicroundblock static c" checksum="8a302c6160d1d033b13a4f4cd78f0646">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/classicroundblock_static_c.myb//classicroundblock static c" checksum="8a302c6160d1d033b13a4f4cd78f0646">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/classic_sk.myb//classic sk" checksum="9bd31cfe236ff595d72278dc9245c47e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/classic_sk.myb//classic sk" checksum="9bd31cfe236ff595d72278dc9245c47e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Clouds.myb//Clouds" checksum="d245533fb27d3392c675a83d05a6d0c4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Clouds.myb//Clouds" checksum="d245533fb27d3392c675a83d05a6d0c4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/coarse_bulk_1.myb//coarse bulk 1" checksum="4b990e304fe3ba3d7aaf0ea66aa8e2a8">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/coarse_bulk_1.myb//coarse bulk 1" checksum="4b990e304fe3ba3d7aaf0ea66aa8e2a8">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/coarse_bulk_2.myb//coarse bulk 2" checksum="a1923f679da06cb7a434c877b78f8b8e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/coarse_bulk_2.myb//coarse bulk 2" checksum="a1923f679da06cb7a434c877b78f8b8e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/coarse_bulk_3.myb//coarse bulk 3" checksum="f5faa729b0913a15aeec4f002b4705da">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/coarse_bulk_3.myb//coarse bulk 3" checksum="f5faa729b0913a15aeec4f002b4705da">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Delayed_.myb//Delayed " checksum="2e4d57acffc5f5a229a616b10d3cc533">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Delayed_.myb//Delayed " checksum="2e4d57acffc5f5a229a616b10d3cc533">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/detail_brush_large.myb//detail brush large" checksum="3ffe0b0d29fba957ea737215b62e1081">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/detail_brush_large.myb//detail brush large" checksum="3ffe0b0d29fba957ea737215b62e1081">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/detail_brush_large_glazing.myb//detail brush large glazing" checksum="628f35314cffb97af90636d67be8a87a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/detail_brush_large_glazing.myb//detail brush large glazing" checksum="628f35314cffb97af90636d67be8a87a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/detail_brush_thin.myb//detail brush thin" checksum="63cee845bed60394db7627c2184da65b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/detail_brush_thin.myb//detail brush thin" checksum="63cee845bed60394db7627c2184da65b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/detail_brush_thin_glazing.myb//detail brush thin glazing" checksum="d6ae174de6b77f2e6a3ccbf38396d1b6">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/detail_brush_thin_glazing.myb//detail brush thin glazing" checksum="d6ae174de6b77f2e6a3ccbf38396d1b6">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Dirty_Noise.myb//Dirty Noise" checksum="d355916cb8aca79117279ad6319be40c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Dirty_Noise.myb//Dirty Noise" checksum="d355916cb8aca79117279ad6319be40c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/Dirty_Transparent_sk.myb//Dirty Transparent sk" checksum="9700636c03eb486931da7b04bd9db1b7">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/Dirty_Transparent_sk.myb//Dirty Transparent sk" checksum="9700636c03eb486931da7b04bd9db1b7">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Dissolver.myb//Dissolver" checksum="54b0a3a407c7b7f2bf329c22d8922b80">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Dissolver.myb//Dissolver" checksum="4dd80920a9860af01048c4a9d2515984">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/DNA_brush.myb//DNA brush" checksum="417f4bf5a0b73ec15031367d02599485">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/DNA_brush.myb//DNA brush" checksum="417f4bf5a0b73ec15031367d02599485">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/dry_brush.myb//dry brush" checksum="3d5f36dc14e760dda304abc959886314">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/dry_brush.myb//dry brush" checksum="3d5f36dc14e760dda304abc959886314">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Eraser.myb//Eraser" checksum="dfb6e1cf04895a895d9f9a68e2440058">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Eraser.myb//Eraser" checksum="8e8e4361f02ca270bdec454e9e7fced9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/extreme_round_l.myb//extreme round l" checksum="9f2837c8244d179789c7b606cf6f4236">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/extreme_round_l.myb//extreme round l" checksum="9f2837c8244d179789c7b606cf6f4236">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Fan#1.myb//Fan#1" checksum="f5fd33d61167c74fd3edd9be02fc4c9c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Fan#1.myb//Fan#1" checksum="e45783511f77587c400b31b6574cf0b2">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/fill.myb//fill" checksum="b18ce179795fb8d8c2e806264ca5d17e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/fill.myb//fill" checksum="b18ce179795fb8d8c2e806264ca5d17e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/fill_c.myb//fill c" checksum="1459723aa5bcc9da6759b15a42214a5e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/fill_c.myb//fill c" checksum="1459723aa5bcc9da6759b15a42214a5e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Flat2#1.myb//Flat2#1" checksum="4c6a998be8176344edb04a48a1898a09">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Flat2#1.myb//Flat2#1" checksum="0b69ce8450ddfe56856376656244d8d0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/flat_bar_l.myb//flat bar l" checksum="df8f3310705e8427710378cb7247f877">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/flat_bar_l.myb//flat bar l" checksum="df8f3310705e8427710378cb7247f877">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Flight_Feathers.myb//Flight Feathers" checksum="cc6eac59683390eb3ed1de2108267c63">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Flight_Feathers.myb//Flight Feathers" checksum="2113139653df35d6eee2fe051df1e2bd">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Fountain_SF#1.myb//Fountain SF#1" checksum="26ae3d19b7cb19fe2116c72819c9c47c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Fountain_SF#1.myb//Fountain SF#1" checksum="26ae3d19b7cb19fe2116c72819c9c47c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Fount-offset#1.myb//Fount offset#1" checksum="4ac6d8e82f3920a391f1fb511bfd1348">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Fount-offset#1.myb//Fount offset#1" checksum="4ac6d8e82f3920a391f1fb511bfd1348">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/fur.myb//fur" checksum="7f5299e2b8e2a3f2baf322431f82cf65">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/fur.myb//fur" checksum="7f5299e2b8e2a3f2baf322431f82cf65">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/glow.myb//glow" checksum="c9a6c88ca3084bd30c0fa2b790d6ebb0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/glow.myb//glow" checksum="c9a6c88ca3084bd30c0fa2b790d6ebb0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Glow_Airbrush.myb//Glow Airbrush" checksum="df630083203326bda3748adbba905cb9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Glow_Airbrush.myb//Glow Airbrush" checksum="df630083203326bda3748adbba905cb9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Grain.myb//Grain" checksum="bde2dbc003d0628150e8b1851d17abe4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Grain.myb//Grain" checksum="bde2dbc003d0628150e8b1851d17abe4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/grainy_blending.myb//grainy blending" checksum="df5602fd713114eee5c59fdcbaeddb1f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/grainy_blending.myb//grainy blending" checksum="df5602fd713114eee5c59fdcbaeddb1f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/HalfTone#1.myb//HalfTone#1" checksum="681f6ea4030fb0d8b57d870f2d813e70">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/HalfTone#1.myb//HalfTone#1" checksum="681f6ea4030fb0d8b57d870f2d813e70">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/HalfToneCMY#1.myb//HalfToneCMY#1" checksum="003e054d54f755b2429de3108c20ca48">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/HalfToneCMY#1.myb//HalfToneCMY#1" checksum="003e054d54f755b2429de3108c20ca48">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/hard_blot.myb//hard blot" checksum="e412f824afaeab8d3fcfa3a69cb0a820">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/hard_blot.myb//hard blot" checksum="e412f824afaeab8d3fcfa3a69cb0a820">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Hard_Eraser.myb//Hard Eraser" checksum="6683222bf9847347e3bde28b355eb986">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Hard_Eraser.myb//Hard Eraser" checksum="6683222bf9847347e3bde28b355eb986">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/hard_sting.myb//hard sting" checksum="51967351a9eec6cf6e6296f813d8c60e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/hard_sting.myb//hard sting" checksum="51967351a9eec6cf6e6296f813d8c60e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/imp_blending.myb//imp blending" checksum="65900deb4ad500422de2ca10001e7620">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/imp_blending.myb//imp blending" checksum="65900deb4ad500422de2ca10001e7620">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/imp_details.myb//imp details" checksum="5fd6893d53c339f01fb28c90074e2e45">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/imp_details.myb//imp details" checksum="5fd6893d53c339f01fb28c90074e2e45">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/impressionism.myb//impressionism" checksum="2f5dbaa5f9da216315eb634d59ce7159">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/impressionism.myb//impressionism" checksum="2f5dbaa5f9da216315eb634d59ce7159">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/ink_blot.myb//ink blot" checksum="07ac439e8dce9fb97908ddc09e26f6c0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/ink_blot.myb//ink blot" checksum="07ac439e8dce9fb97908ddc09e26f6c0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/ink_eraser.myb//ink eraser" checksum="ba67eede173bfce93478393b90cbfcac">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/ink_eraser.myb//ink eraser" checksum="ba67eede173bfce93478393b90cbfcac">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/ink-slowline_s.myb//ink slowline s" checksum="bdb4cc8434a37f470b8caad86e678c9e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/ink-slowline_s.myb//ink slowline s" checksum="bdb4cc8434a37f470b8caad86e678c9e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/ink_slow_s.myb//ink slow s" checksum="142431dd853cbaea246b5ef55d861218">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/ink_slow_s.myb//ink slow s" checksum="142431dd853cbaea246b5ef55d861218">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/inkster_l.myb//inkster l" checksum="34184247174bf95343a4fe85240789f1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/inkster_l.myb//inkster l" checksum="34184247174bf95343a4fe85240789f1">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/irregular_ink.myb//irregular ink" checksum="5681cd469cb25bc586258e9053d6220a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/irregular_ink.myb//irregular ink" checksum="5681cd469cb25bc586258e9053d6220a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/kabura.myb//kabura" checksum="4cbf5980bf6d5f8dc19229d79081c2ab">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/kabura.myb//kabura" checksum="4cbf5980bf6d5f8dc19229d79081c2ab">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/kneaded_eraser.myb//kneaded eraser" checksum="11657422b577a2cc450525f4547664c4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/kneaded_eraser.myb//kneaded eraser" checksum="11657422b577a2cc450525f4547664c4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/kneaded_eraser_large.myb//kneaded eraser large" checksum="89aa5a7b495a35d1da66858272ad8441">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/kneaded_eraser_large.myb//kneaded eraser large" checksum="89aa5a7b495a35d1da66858272ad8441">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/knife.myb//knife" checksum="ae918f91195757c1869c1f014c565c2e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/knife.myb//knife" checksum="ae918f91195757c1869c1f014c565c2e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Knife.myb//Knife" checksum="38ba0f2a7d41814354e53dd1676422fc">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Knife.myb//Knife" checksum="38ba0f2a7d41814354e53dd1676422fc">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/large_hard_eraser.myb//large hard eraser" checksum="c0ba64637a3ed672f9933cc54a2ec2da">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/large_hard_eraser.myb//large hard eraser" checksum="c0ba64637a3ed672f9933cc54a2ec2da">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/large_watercolor_fringe.myb//large watercolor fringe" checksum="e4a58bec344ca0f797548a065a380af8">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/large_watercolor_fringe.myb//large watercolor fringe" checksum="e4a58bec344ca0f797548a065a380af8">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/leaves.myb//leaves" checksum="a00cf6fa8b6328a15c8177e2976f9d64">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/leaves.myb//leaves" checksum="a00cf6fa8b6328a15c8177e2976f9d64">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/liner.myb//liner" checksum="8803be1a13ac340a75ac8dd3bb9ba2c7">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/liner.myb//liner" checksum="8803be1a13ac340a75ac8dd3bb9ba2c7">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/long_grass.myb//long grass" checksum="3ac6442c256f67f967a5fcd4d0689c83">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/long_grass.myb//long grass" checksum="3ac6442c256f67f967a5fcd4d0689c83">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Marker.myb//Marker" checksum="584933fb0a969a0f6f3254a9b4b75735">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Marker.myb//Marker" checksum="584933fb0a969a0f6f3254a9b4b75735">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/marker-01.myb//marker 01" checksum="d7063a780f422102fffc2feb618873be">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/marker-01.myb//marker 01" checksum="d7063a780f422102fffc2feb618873be">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/marker-05.myb//marker 05" checksum="9bfdcdadfd47b24649a66ec5ebe763df">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/marker-05.myb//marker 05" checksum="9bfdcdadfd47b24649a66ec5ebe763df">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/marker_fat.myb//marker fat" checksum="1a6c0d46be5b44dab9a14699d031a5bc">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/marker_fat.myb//marker fat" checksum="1a6c0d46be5b44dab9a14699d031a5bc">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/marker_small.myb//marker small" checksum="8cde245c0711668e6ea1c0c37660f710">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/marker_small.myb//marker small" checksum="8cde245c0711668e6ea1c0c37660f710">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/modelling.myb//modelling" checksum="29062da06b53bc12c4f4241833dcf728">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/modelling.myb//modelling" checksum="29062da06b53bc12c4f4241833dcf728">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/modelling2.myb//modelling2" checksum="3e8a9bb250bf168aedf3f54f0f012ae9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/modelling2.myb//modelling2" checksum="3e8a9bb250bf168aedf3f54f0f012ae9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-01-clean.myb//oil 01 clean" checksum="6ab4217bf9b50175fc007f8386744f8d">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-01-clean.myb//oil 01 clean" checksum="6ab4217bf9b50175fc007f8386744f8d">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-01-paint.myb//oil 01 paint" checksum="7f1c347156dfdf585ebcd63f3655ece3">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-01-paint.myb//oil 01 paint" checksum="7f1c347156dfdf585ebcd63f3655ece3">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-03-clean.myb//oil 03 clean" checksum="8ccb0b5b146a69d03c8de439b39ee75e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-03-clean.myb//oil 03 clean" checksum="8ccb0b5b146a69d03c8de439b39ee75e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-03-paint.myb//oil 03 paint" checksum="caa31442c820142f1b9d8e3dab0eba67">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-03-paint.myb//oil 03 paint" checksum="caa31442c820142f1b9d8e3dab0eba67">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-06-clean.myb//oil 06 clean" checksum="c3afcafb212c6d43346842f162b35fa4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-06-clean.myb//oil 06 clean" checksum="c3afcafb212c6d43346842f162b35fa4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-06-paint.myb//oil 06 paint" checksum="b4c16a1fe441f1ef0cc77f2243b7f514">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-06-paint.myb//oil 06 paint" checksum="b4c16a1fe441f1ef0cc77f2243b7f514">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/oil-mop.myb//oil mop" checksum="ca2e815c944d6a94bfb7b1a23687965e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/oil-mop.myb//oil mop" checksum="ca2e815c944d6a94bfb7b1a23687965e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/only_water_fringe.myb//only water fringe" checksum="96d556d137c3bfec7dbc3ce0745c0e01">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/only_water_fringe.myb//only water fringe" checksum="96d556d137c3bfec7dbc3ce0745c0e01">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/paint_barrr_sm.myb//paint barrr sm" checksum="267761c0eb7ddd9ef19c139ba2367c87">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/paint_barrr_sm.myb//paint barrr sm" checksum="267761c0eb7ddd9ef19c139ba2367c87">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/paint_radius_2_sm.myb//paint radius 2 sm" checksum="1725f2b5c73326c247c89e20b4df8417">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/paint_radius_2_sm.myb//paint radius 2 sm" checksum="1725f2b5c73326c247c89e20b4df8417">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/paint_sm.myb//paint sm" checksum="e19eb1af0f70d2494322ccf4c30d359b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/paint_sm.myb//paint sm" checksum="e19eb1af0f70d2494322ccf4c30d359b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/particules_3.myb//particules 3" checksum="4963964a1ee079a35becb80246fed29a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/particules_3.myb//particules 3" checksum="4963964a1ee079a35becb80246fed29a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/particules_eraser.myb//particules eraser" checksum="192f5067106dcb3f605490e4495c2fa7">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/particules_eraser.myb//particules eraser" checksum="192f5067106dcb3f605490e4495c2fa7">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Pastel_1.myb//Pastel 1" checksum="e30092d8ec2bf944cfd39add7c72e4c1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Pastel_1.myb//Pastel 1" checksum="e30092d8ec2bf944cfd39add7c72e4c1">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/pen.myb//pen" checksum="edf2f3361e5c51b48307f982a36c970a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/pen.myb//pen" checksum="edf2f3361e5c51b48307f982a36c970a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Pen.myb//Pen" checksum="8a35fd522d3eabb84b7ae44fd280612d">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Pen.myb//Pen" checksum="8a35fd522d3eabb84b7ae44fd280612d">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/pen.myb//pen #1" checksum="f153b2d8987efdb2be18b8813a47bf54">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/pen.myb//pen #1" checksum="f153b2d8987efdb2be18b8813a47bf54">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/PenBrush.myb//PenBrush" checksum="a2cb08ec273ec224df7217655de5fb19">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/PenBrush.myb//PenBrush" checksum="a2cb08ec273ec224df7217655de5fb19">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/pencil.myb//pencil" checksum="21a17d4c4fce369e8b74d0e632962530">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/pencil.myb//pencil" checksum="21a17d4c4fce369e8b74d0e632962530">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/pencil-2b.myb//pencil 2b" checksum="1bac673cb02a524cf100df0385099f78">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/pencil-2b.myb//pencil 2b" checksum="1bac673cb02a524cf100df0385099f78">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/pencil-8b.myb//pencil 8b" checksum="45b873e55578e2287a2ab2ad73fbc461">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/pencil-8b.myb//pencil 8b" checksum="45b873e55578e2287a2ab2ad73fbc461">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Pencil-_Left_Handed.myb//Pencil  Left Handed" checksum="a5b1e068fdd99e8ad1f608b662409c90">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Pencil-_Left_Handed.myb//Pencil  Left Handed" checksum="a5b1e068fdd99e8ad1f608b662409c90">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/pen-note.myb//pen note" checksum="b761bd7ca9b80692d6f46d592e5e49b3">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/pen-note.myb//pen note" checksum="b761bd7ca9b80692d6f46d592e5e49b3">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/pick_and_drag.myb//pick and drag" checksum="53fd730edf029da2ad48c8c94f50295b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/pick_and_drag.myb//pick and drag" checksum="53fd730edf029da2ad48c8c94f50295b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/pixelblocking.myb//pixelblocking" checksum="be6506b5fbef99d305c8b973cb7b14c3">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/pixelblocking.myb//pixelblocking" checksum="be6506b5fbef99d305c8b973cb7b14c3">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/pixel_hardink.myb//pixel hardink" checksum="cc53998efab5d3cd5064e46bda62800c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/pixel_hardink.myb//pixel hardink" checksum="cc53998efab5d3cd5064e46bda62800c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/pointy_ink.myb//pointy ink" checksum="8f0f19be3497babd4d03784804e304d1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/pointy_ink.myb//pointy ink" checksum="8f0f19be3497babd4d03784804e304d1">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Posterizer.myb//Posterizer" checksum="8b33b44a41fb1358058c4ff265be4d8b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Posterizer.myb//Posterizer" checksum="822c5a351d0d6f33831f98d804cbcd59">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/P._Shade.myb//P. Shade" checksum="970a97fdc1d3a43c7ff7d3aebaf88c8a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/P._Shade.myb//P. Shade" checksum="970a97fdc1d3a43c7ff7d3aebaf88c8a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/puantilism.myb//puantilism" checksum="d05c2b445f6c4e69886143ceb07adba0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/puantilism.myb//puantilism" checksum="d05c2b445f6c4e69886143ceb07adba0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/puantilism2.myb//puantilism2" checksum="3272ec1f21f5060de1ad20ba9bbb219f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/puantilism2.myb//puantilism2" checksum="3272ec1f21f5060de1ad20ba9bbb219f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/rigger_brush.myb//rigger brush" checksum="d237cf7255c86f35be825404c11aef78">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/rigger_brush.myb//rigger brush" checksum="d237cf7255c86f35be825404c11aef78">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/rigger_brush_thin.myb//rigger brush thin" checksum="781e420d287e11edf49a8b61c138f91d">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/rigger_brush_thin.myb//rigger brush thin" checksum="781e420d287e11edf49a8b61c138f91d">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/rough.myb//rough" checksum="0498848831b2fb431b83f7691a844295">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/rough.myb//rough" checksum="0498848831b2fb431b83f7691a844295">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Round.myb//Round" checksum="9d00e76506f76f32c8f2083f24e0d185">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Round.myb//Round" checksum="9d00e76506f76f32c8f2083f24e0d185">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Round#1.myb//Round#1" checksum="ae11b05cd069bfe3d0e1ffa25bfdb4ff">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Round#1.myb//Round#1" checksum="7ec757d8ceef727a56e66f9e62300d09">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Round_Bl.myb//Round Bl" checksum="b4ebd4e616bb56bee49cc05a3c47676f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Round_Bl.myb//Round Bl" checksum="b4ebd4e616bb56bee49cc05a3c47676f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/rounded.myb//rounded" checksum="e3b3e38a6470df5fec0be391bbbf724c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/rounded.myb//rounded" checksum="e3b3e38a6470df5fec0be391bbbf724c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/RS_blendOP.myb//RS blendOP" checksum="3c5a04b5775e9019cd3a94ad8c079164">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/RS_blendOP.myb//RS blendOP" checksum="3c5a04b5775e9019cd3a94ad8c079164">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/sewing.myb//sewing" checksum="2987134ec9d4cd588a9b7246f7337738">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/sewing.myb//sewing" checksum="2987134ec9d4cd588a9b7246f7337738">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/short_grass.myb//short grass" checksum="0ec71dc5e66510177da72238274ca852">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/short_grass.myb//short grass" checksum="0ec71dc5e66510177da72238274ca852">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Sketch_1.myb//Sketch 1" checksum="40729d50c3623a8cac0ee1778debef65">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Sketch_1.myb//Sketch 1" checksum="40729d50c3623a8cac0ee1778debef65">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/Sketcher2_sk.myb//Sketcher2 sk" checksum="9f3192960ab6a09d560883f84bb8fbe1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/Sketcher2_sk.myb//Sketcher2 sk" checksum="9f3192960ab6a09d560883f84bb8fbe1">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/slow_ink.myb//slow ink" checksum="d5df38f9175f68298e4ea5c754f6f7b4">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/slow_ink.myb//slow ink" checksum="d5df38f9175f68298e4ea5c754f6f7b4">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/small_blot.myb//small blot" checksum="bc9f7f7a1c6f60ccb3185ce87794e63a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/small_blot.myb//small blot" checksum="bc9f7f7a1c6f60ccb3185ce87794e63a">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Smear.myb//Smear" checksum="3699470845340461fc1654faa665b581">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Smear.myb//Smear" checksum="3699470845340461fc1654faa665b581">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/Smear_sm.myb//Smear sm" checksum="3f5b61c4a3794ac0163b52a021f48a9d">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/Smear_sm.myb//Smear sm" checksum="3f5b61c4a3794ac0163b52a021f48a9d">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/smudge.myb//smudge" checksum="2ccfa7959e678e79ed203b8fa7f3df55">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/smudge.myb//smudge" checksum="2ccfa7959e678e79ed203b8fa7f3df55">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/smudge_ink(0.7)_sm.myb//smudge ink(0.7) sm" checksum="cee7a29b729822d576f9a41cb39563a0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/smudge_ink(0.7)_sm.myb//smudge ink(0.7) sm" checksum="cee7a29b729822d576f9a41cb39563a0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/smudge+paint.myb//smudge+paint" checksum="64f8ae36afc225ee8bada9d4d1e5cf0c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/smudge+paint.myb//smudge+paint" checksum="64f8ae36afc225ee8bada9d4d1e5cf0c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/soft.myb//soft" checksum="2b7826179c73fba28d73e78d2108239b">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/soft.myb//soft" checksum="2b7826179c73fba28d73e78d2108239b">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/soft-dip-pen.myb//soft dip pen" checksum="9eacd9038516a9119086f18c561666b9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/soft-dip-pen.myb//soft dip pen" checksum="9eacd9038516a9119086f18c561666b9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Soft_Eraser.myb//Soft Eraser" checksum="09e37d4660c215624747193a2bff2f74">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Soft_Eraser.myb//Soft Eraser" checksum="09e37d4660c215624747193a2bff2f74">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/soft_irregular.myb//soft irregular" checksum="230765af3fa961f0fb1a0d462fde9e95">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/soft_irregular.myb//soft irregular" checksum="230765af3fa961f0fb1a0d462fde9e95">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/spaced-blot.myb//spaced blot" checksum="b4e870b6729cc738629247a89e31fe7e">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/spaced-blot.myb//spaced blot" checksum="b4e870b6729cc738629247a89e31fe7e">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/speed_blot.myb//speed blot" checksum="74fc6d4d71ebd1ea6ca5b8d6034469bb">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/speed_blot.myb//speed blot" checksum="74fc6d4d71ebd1ea6ca5b8d6034469bb">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Splash.myb//Splash" checksum="72795641a060a05c6d97ffa986f87c37">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Splash.myb//Splash" checksum="43e616dcc505c139f7dd64105ea89ca3">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/splatter-02.myb//splatter 02" checksum="1756c8061232f11607c704a22ec99f67">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/splatter-02.myb//splatter 02" checksum="1756c8061232f11607c704a22ec99f67">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/splatter-04.myb//splatter 04" checksum="a82f6941bdedfc8a88e73ffbed059ed1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/splatter-04.myb//splatter 04" checksum="a82f6941bdedfc8a88e73ffbed059ed1">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/sponge_smudging.myb//sponge smudging" checksum="aa720b4bf7218756073fe9417573fdfc">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/sponge_smudging.myb//sponge smudging" checksum="aa720b4bf7218756073fe9417573fdfc">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/spray.myb//spray" checksum="11f27a3b00a53495f417e7d4b69be23f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/spray.myb//spray" checksum="11f27a3b00a53495f417e7d4b69be23f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/spray2.myb//spray2" checksum="1ecd1f9bd6fd3c608cf626049e944430">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/spray2.myb//spray2" checksum="1ecd1f9bd6fd3c608cf626049e944430">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/subtle_pencil.myb//subtle pencil" checksum="4660cd65315085dedef50bf9d858714f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/subtle_pencil.myb//subtle pencil" checksum="4660cd65315085dedef50bf9d858714f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Tail_Feathers.myb//Tail Feathers" checksum="61eab7f537c8b246553e31b084bac7b5">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Tail_Feathers.myb//Tail Feathers" checksum="675673fa574afffa06e214bf71633992">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/Tail_Feathers2.myb//Tail Feathers2" checksum="fe63d3170cbb2389c190de498765492a">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/Tail_Feathers2.myb//Tail Feathers2" checksum="d10874126566cfa1dddf72c99d0e9419">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/texture-03.myb//texture 03" checksum="948838b0cf317505137c30cd5b7e03fe">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/texture-03.myb//texture 03" checksum="948838b0cf317505137c30cd5b7e03fe">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/texture-06.myb//texture 06" checksum="06a1ef0e4c7cdeb579821679fcdd9dce">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/texture-06.myb//texture 06" checksum="06a1ef0e4c7cdeb579821679fcdd9dce">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/texture-12.myb//texture 12" checksum="7f87328f6bda2dd48b824c98ab9190ed">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/texture-12.myb//texture 12" checksum="7f87328f6bda2dd48b824c98ab9190ed">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/textured_ink.myb//textured ink" checksum="6a199bac8a9828fc27d19b93c6ddd579">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/textured_ink.myb//textured ink" checksum="6a199bac8a9828fc27d19b93c6ddd579">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/thin_hard_eraser.myb//thin hard eraser" checksum="cf2157f66a1e667648969e076766de28">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/thin_hard_eraser.myb//thin hard eraser" checksum="cf2157f66a1e667648969e076766de28">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Thin_Pen.myb//Thin Pen" checksum="c9649e31cef8a284299776b83f885724">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Thin_Pen.myb//Thin Pen" checksum="c9649e31cef8a284299776b83f885724">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/thin_watercolor.myb//thin watercolor" checksum="5e790c069796385265996a1b5a1ffde0">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/thin_watercolor.myb//thin watercolor" checksum="5e790c069796385265996a1b5a1ffde0">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/experimental/track.myb//track" checksum="bac55dc82b732252ed3a6729c75ff063">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/experimental/track.myb//track" checksum="bac55dc82b732252ed3a6729c75ff063">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/water-01.myb//water 01" checksum="4a080d825f76d8e720c8f900174dbf6f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/water-01.myb//water 01" checksum="4a080d825f76d8e720c8f900174dbf6f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/water-02.myb//water 02" checksum="e11feabc7497a2990ba51bb8b37b1fc7">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/water-02.myb//water 02" checksum="e11feabc7497a2990ba51bb8b37b1fc7">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/water-05.myb//water 05" checksum="088dc0efbaf0e6f897469e611549a9c9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/water-05.myb//water 05" checksum="088dc0efbaf0e6f897469e611549a9c9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/water-06.myb//water 06" checksum="6087cd1a51c95a7fa75ae883bb8dbc3f">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/water-06.myb//water 06" checksum="6087cd1a51c95a7fa75ae883bb8dbc3f">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/watercolor-02-paint.myb//watercolor 02 paint" checksum="ec5c9ca315bd88f81c698dc0a34297b9">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/watercolor-02-paint.myb//watercolor 02 paint" checksum="ec5c9ca315bd88f81c698dc0a34297b9">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/tanda/watercolor-02-water.myb//watercolor 02 water" checksum="3fe94ba21c0729047c5254ad197984c6">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/tanda/watercolor-02-water.myb//watercolor 02 water" checksum="3fe94ba21c0729047c5254ad197984c6">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/watercolor_expressive.myb//watercolor expressive" checksum="36446d58223a62319b632435f2d7f2ad">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/watercolor_expressive.myb//watercolor expressive" checksum="36446d58223a62319b632435f2d7f2ad">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/deevad/watercolor_glazing.myb//watercolor glazing" checksum="bf701b0cbf62f46fdb8183fc87650b0c">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/deevad/watercolor_glazing.myb//watercolor glazing" checksum="bf701b0cbf62f46fdb8183fc87650b0c">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/Dieterle/WateryFlatbrush.myb//WateryFlatbrush" checksum="851fd9462b5523fcc4661a8e8f518522">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/Dieterle/WateryFlatbrush.myb//WateryFlatbrush" checksum="5043be7c4b9e2d5ae8066e5ef2248cc6">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/Wet_Direction.myb//Wet Direction" checksum="11f4daa12dabb83908ecca48ffb81383">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/Wet_Direction.myb//Wet Direction" checksum="11f4daa12dabb83908ecca48ffb81383">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/classic/wet_knife.myb//wet knife" checksum="3a5b2a816f8a21e78b8c014189bac0c3">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/classic/wet_knife.myb//wet knife" checksum="3a5b2a816f8a21e78b8c014189bac0c3">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/kaerhon_v1/wet_paint_sm.myb//wet paint sm" checksum="93952a21d06794ba495c04cfa88cd7cb">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/kaerhon_v1/wet_paint_sm.myb//wet paint sm" checksum="93952a21d06794ba495c04cfa88cd7cb">
   </resource>
 
-  <resource identifier="external:${mypaint_brushes_dir}/ramon/wet_round.myb//wet round" checksum="038abfe33947692f773e0244d2ac7fc1">
+  <resource identifier="external:/tmp/.mount_GIMP-3JBKGFH/usr/share/mypaint-data/2.0/brushes/ramon/wet_round.myb//wet round" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
   <resource identifier="internal:gimp-pattern-clipboard-image//Clipboard Image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
@@ -1234,127 +1234,127 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="2ab183a33cc97427626f3709bbc87aa1">
+  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="99fe2abd1dada6fb5f8caa915265acd7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="861641f537144ea98961d01c0bd3c8ce">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="698ef325da35fcdc4c1045ed2c2fbc19">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="a9ab7be00ede2d2fe765f6b2660a3b77">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="ff46d3aa3375f8021c030ac0cf05cf9d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="56c95c7f77cbd9c124ad1a8a268f3415">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="a233cf62df2af250ca67a40a3dddf11e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="3843a19432b6b0070bed7bf70d032eb6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="88300d1a70f1c74c6db544ac09f25bc9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="bd8191f163c048683825dd78f0f58b50">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="0ca9d9451e4200a87301e77f8d5ed61a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="f208829a17851eb7e3241f5b714f5598">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="1141ab66c44269106550f44a6cb5d90e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="1be405a83b1d5871ddf77949cfc8c2c4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="3563fff1eb76764d9d226e89504e1e9e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="022d0124cce3887d94b07fd1042d392b">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="ba76c028b18dd95cd9dd7cc397cb7ed5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="c7ed80f9b0ec6a413b9dd46efad31e55">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="6aebc0d693d7184c0cc693bdbf144513">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="30e3778598259126c316748f9abbbaa9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="a1b874de20b2f9c51065dc4cfae18d6d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="e262f4c15442348840d0e4f54d91e9e3">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="378fdbfae7af6ca6dc3384cb144e3341">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="7d0fcecdd4159140d97d6b249a031285">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="576aa36a4676748e55fa68820291f11d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="0a8f14530275d13d2647bd55b020ff9f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="3825e74ca28e552c73796f00ac5456cf">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="16c8b5278d709370b84424bec874d841">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="8dbc57495beb1eafde07f82911f79418">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="45b71c85c7c48d15a683c1a6bc3654ce">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="016173dcb278b9791762f5deffe25d7f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="4eebc338048e515bef04bd0125ae8828">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="a92551c57e0ed18e3fbbd19668ccb3ee">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="28146adaa00123f02510c4a15d0e75f3">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="3f6e52b0af335ecb2576950b296ed1f7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="17435a63ad7b70577a93f652221af2d5">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="95386ebde561a175d8c7d29cfee731f4">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="b3dd97305a200ae0c6411cf79811e787">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="cdbf18baf47e9703f361838add3ed960">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="2557a0ffbba5388dff47d534518dd965">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="01dec9664ceeb47dff21ee5c740e115f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="28aa3e8134578747ca2f66dd335579db">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="e180b24850c74fc40a591a7481744d80">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="f4716653406e1ec8f85cc76bf0ab8edd">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="e1206ec9e0cf0e6cfaf0a59ce5d0be37">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="43680077026a9b55f778977c4e4e9b00">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="de26b53fca8405115dc3d9463d95284f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="e869a5870b931a30a71987b62999cf7a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="80d7f0b778d6b2594fed58038e3c62de">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="ccc562a739401b8b9592ddfeda02afb4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="1b7e6987a7311fc05063e4e77122904d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="ae4973e8aabef23a4f690b2e49ef196e">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="aae93bb2e5983fd76e8868d10eede954">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="f5faa95671aa3bebb1c4d7238bfb5f6a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="23a56eb66112d1892c47e706787184b7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="83e6711882b1c528a48836969b3eefa3">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="75fa5359478c1b7abc3b62acbff73ccb">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="4c9e2aa67c8c1d942a170fd284b9895d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="050399a1bd19bdb45bd0a3c8471a81aa">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="0325522b52ba69dd66f0086596ab95a9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="254125b675b42962d36defffc26e438e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="de1b0d7f0f174609bebfbbef424a58e1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="07b8e660972fbde65c040d62ccbd3457">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="e12ebcfe52d26af091bdb82baa81ab15">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="2bf6bd6c4877047713943bafa7dfdda7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="391ebde098890aac087f9c1e717a3359">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="d331de330501274d77959d7781df0d96">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="97f3230a46e35593cf3d88f67c9bbb28">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="425bcff3701d579ee1272684a910d915">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="3c6972e33630f27e57c19c9c4efc46ae">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="4a07d0207d99326c9ab14ccc7c0e6436">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="c0582b53f285b12d33ad65eb3870b9d8">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="05ac65539ecac953c04d48939c86413b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="134cdf79b24588a6a89fe9a13839fc5c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="df4f5d7672fd8ec2f0118089b53ced36">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="0c4010c0f613d9efda27a9c3e359c920">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="64dc81c1ae83026898793378e732fd72">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="bcb8e8f26f3e2214ed648ac911aca75f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="99b1ab00edd198bdf79e2935ab4ebfa5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="5e64da851aace3be936442b02e5828c2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="f593234e280e10565b55af954cfab9d6">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
