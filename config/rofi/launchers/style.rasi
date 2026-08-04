@@ -13,7 +13,7 @@ configuration {
     show-icons:                 true;
     display-drun:               " Applications";
 	drun-display-format:        "{name}";
-    font:                       "Google Sans Flex 20";
+    font:                       "Google Sans Flex 14";
 }
 
 /*****----- Global Properties -----*****/

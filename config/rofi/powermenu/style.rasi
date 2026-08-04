@@ -10,7 +10,7 @@
 /*****----- Configuration -----*****/
 configuration {
     show-icons:                 false;
-    font:                       "Google Sans Flex 20";
+    font:                       "Google Sans Flex 14";
 }
 
 /*****----- Global Properties -----*****/
@@ -22,7 +22,7 @@ window {
     location:                    center;
     anchor:                      center;
     fullscreen:                  false;
-    width:                       10%;
+    width:                       20%;
     enabled:                     true;
     border:                      3px;
     border-radius:               10px;
